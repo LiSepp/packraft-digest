@@ -61,7 +61,7 @@
 - [Boreal River Rescue：怎样读河（水文学 101）](https://rescue.borealriver.com/blogs/swiftwater-and-whitewater/reading-rivers) 🧪 — 用急流救援的视角讲涡流线、回流、沸腾线（boil line）：沸腾线离跌水越远，回流越危险。
 - [Canyon Magazine：Hydrology](https://canyonmag.net/technical/safety/hydrology/) 🧪 — 峡谷运动角度的水文学，配图清楚，讲回流、涡流、虹吸、滤网（strainer）。
 - [Paddling Magazine：认识河流地貌（River Features）](https://paddlingmag.com/skills/skills-understanding-river-features/) 🧪 — V 字水、涡流、浪、洞等基础地貌一次看完。
-- [Paddling Magazine：理解风向偏转（weathercocking）与尾鳍](https://paddlingmag.com/skills/strokes-techniques/understanding-weather-cocking-and-skegs/) 🧪 — **偏航必读**：船在侧风下为什么会自己转向迎风，尾鳍怎么平衡；你的 Nomad S1 正好有可拆尾鳍。
+- [Paddling Magazine：理解风向偏转（weathercocking）与尾鳍](https://paddlingmag.com/skills/strokes-techniques/understanding-weather-cocking-and-skegs/) 🧪 — **偏航必读**：船在侧风下为什么会自己转向迎风，尾鳍怎么平衡；你的 Mini Shark 也配有尾鳍套件。
 - [Paddling Light：偏转（weathercocking）与循迹性（tracking），尾鳍和舵](https://www.paddlinglight.com/articles/kayak-weathercocking-vs-tracking/) 🧪 — 把“偏转”和“循迹性”区分开讲，适合写成知识库的一节。
 - [CCC 海上皮划艇课程讲义：保持方向](https://bookdown.org/rbown250/ccc_sk_notes/maintaining-direction.html) 🧪 — 开源讲义，讲用倾艇、扫桨、尾鳍保持航向，结构清晰。
 - [维基百科：Weathercocking（风标效应）](https://en.wikipedia.org/wiki/Weathercocking) 🧪 — 风标效应的通用物理解释，用来写概念定义。
@@ -79,8 +79,8 @@
 
 ## 七、装备评测与知识
 
-- [MRS Nomad S1 官方产品页](https://www.mrsraft.com/product/nomad-s1/) — 你的船：长 293 cm、内宽 34 cm、船管 26.5 cm、约 3.9 kg、载重 118 kg（标准版），带可拆尾鳍。这些参数正好是算稳性的输入。国内官网：[mrsraft.cn](https://mrsraft.cn/) 🇨🇳。
-- [Paqualife：MRS Nomad S1](https://paqualife.co.uk/product/mrs-nomad-s1/) — 英国经销商页，有第三方角度的描述和规格，可以和官方参数对照。
+- [MRS Mini Shark 官方产品页](https://www.mrsraft.com/product/mini-shark/) — 你的船：标准版外长 291 cm、外宽 87 cm、内宽 38 cm、水线长 260 cm、水线宽 80 cm、船管 24.5 cm、全套约 6.15 kg、建议体重 85 kg、建议载重 105 kg（XL 版外长 315 cm、外宽 91 cm、船管 25.5 cm）。官方定位是皮艇外形的激流 packraft，船管比其他型号细，方便翻船后爬回，低座位补偿稳性。这些参数正好是算稳性的输入。国内官网：[mrsraft.cn](https://mrsraft.cn/) 🇨🇳。
+- [Micro Rafting：Mini Shark](https://www.microrafting.com/products/mini-shark) — 经销商页，标注适用 II 到 IV 级激流，有完整规格表和配件重量，可以和官方参数对照。
 - [Alpacka Raft](https://alpackaraft.com/) — 行业标杆品牌，产品页和指南适合拿来横向对比船型（船管直径、尾部形状、货舱拉链）。
 - [Kokopelli Packrafts](https://kokopelli.com/pages/packrafts) — 另一大品牌，有[型号对比表](https://kokopelli.com/pages/comparison-chart)。
 - [NRS Learn（NRS 学习中心）](https://www.nrs.com/learn/) — 大型划船装备商的知识库：干衣、PFD、救援装备怎么选、怎么用。
@@ -99,7 +99,7 @@
 
 - [r/packrafting](https://www.reddit.com/r/packrafting/) — packraft 主社区，帖子不多（一周约 4 帖）但质量较高。
 - [r/whitewater](https://www.reddit.com/r/whitewater/) — 激流综合讨论，船型、技术、河段 beta 都多。
-- [r/Kayaking](https://www.reddit.com/r/Kayaking/) — 以平水/海上皮划艇为主，偏航、循迹、坐姿这类问题经常出现，跟你的 Nomad S1 用法很接近。
+- [r/Kayaking](https://www.reddit.com/r/Kayaking/) — 以平水/海上皮划艇为主，偏航、循迹、坐姿这类问题经常出现，对你划 Mini Shark 时的循迹也有参考价值。
 - [APA Packraft 论坛](https://forum.packraft.org/) — APA 官方论坛：行程报告、装备、找队友。
 - [UK Rivers Guidebook 论坛](https://www.ukriversguidebook.co.uk/forum/) — 英国激流社区，河段指南 + 论坛。
 - [Mountain Buzz](https://www.mountainbuzz.com/) — 美国西部漂流/激流老论坛，漂流和长线行程讨论多。
