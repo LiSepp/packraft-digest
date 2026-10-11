@@ -55,6 +55,9 @@
 - [American Whitewater 频道](https://www.youtube.com/@AmericanWhitewater) — 河流 beta（路线介绍）和河流保护影片。
 - [Michael Smith Whitewater](https://www.youtube.com/@michaelsmithwhitewater) — 激流 packraft 测评和阿拉斯加向导生活，新船评测比较中肯。
 - [Kanuschule Versam](https://www.youtube.com/@Kanuschule) — 瑞士老牌激流学校（1989 年起），德语为主，救援和技术视频很实在。
+- [Luc Mehl：Lead with Your Head: Packraft Boat Control](https://www.youtube.com/watch?v=a9uBlxUwF1Y) 🧪 — 《The Packraft Handbook》作者讲 packraft 控船：用头和身体带动船，而不是只靠桨。
+- [Anna Levesque：Edge Control for Whitewater Kayaking](https://www.youtube.com/watch?v=rU9zogiugs4) 🧪 — 倾艇（edging）怎样既保持稳定又帮助转向，稳性和偏航都用得上。同作者还有[进阶版](https://www.youtube.com/watch?v=9nGGHYjuRzA)。
+- [Boyd Ruppelt：Stop Flipping: How to Brace & Stay Upright](https://www.youtube.com/watch?v=8dToz-niUkI) 🧪 — 撑桨（brace）防翻教程，讲的是“快翻时怎么用桨和胯把船救回来”。
 
 ## 六、读水与水流力学 / 物理 🧪
 
@@ -114,11 +117,11 @@
 | 二、安全与救援 | 9 |
 | 三、课程与学校 | 4 |
 | 四、书籍 | 3 |
-| 五、视频频道和教程 | 10 |
+| 五、视频频道和教程 | 13 |
 | 六、读水与水流力学 / 物理 | 18 |
 | 七、装备评测与知识 | 6 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **73** |
+| **合计** | **76** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
