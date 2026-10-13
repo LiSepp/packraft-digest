@@ -36,6 +36,7 @@
 - [Alaska Packraft School](https://alaskapackraft.com/) 🔁 — 阿拉斯加的 packraft 学校，Level 1 基础 → Level 2 激流要领（II–III 级）→ Level 3 带视频分析，课程页就是很好的技能进阶路线图。
 - [Packrafting Scotland](https://www.packraftingscotland.co.uk/) — 苏格兰的 packraft 课程和河流体验，看英国体系的教学内容。
 - [ACA 官网课程搜索](https://americancanoe.org/) — 按地区、级别找认证教练和课程。
+- [California Packrafting：The Packraft Learning Curve（为什么要去上硬壳课）](https://californiapackrafting.com/the-packraft-learning-curve-and-the-case-for-kayaking-instruction/) 🧪 — 硬壳前端陡、packraft 前端平但进阶墙更高；棱边与桨法反馈如何带回 packraft。
 
 ## 四、书籍
 
@@ -58,12 +59,16 @@
 - [Luc Mehl：Lead with Your Head: Packraft Boat Control](https://www.youtube.com/watch?v=a9uBlxUwF1Y) 🧪 — 《The Packraft Handbook》作者讲 packraft 控船：用头和身体带动船，而不是只靠桨。
 - [Anna Levesque：Edge Control for Whitewater Kayaking](https://www.youtube.com/watch?v=rU9zogiugs4) 🧪 — 倾艇（edging）怎样既保持稳定又帮助转向，稳性和偏航都用得上。同作者还有[进阶版](https://www.youtube.com/watch?v=9nGGHYjuRzA)。
 - [Boyd Ruppelt：Stop Flipping: How to Brace & Stay Upright](https://www.youtube.com/watch?v=8dToz-niUkI) 🧪 — 撑桨（brace）防翻教程，讲的是“快翻时怎么用桨和胯把船救回来”。
+- [Aqua Bound：Skills Session for Whitewater Packrafting](https://aquabound.com/blogs/resources/skills-session-for-whitewater-packrafting) 🧪 — packraft 激流练习单：低/高撑桨、抓涡流、摆渡、冲浪；强调 packraft 没有硬棱边，要自己找平衡点。
+- [Seeka Touring：Packraft paddling technique](https://seekatouring.com/field-notes/packraft-paddling-technique) 🧪 — 短而实用：贴船管的短桨、过髋就抬桨（再往后就变成扫桨导致偏航）、用岸标早修小偏、配平与重心；低撑桨靠胯回正。
 
 ## 六、读水与水流力学 / 物理 🧪
 
 - [Boreal River Rescue：怎样读河（水文学 101）](https://rescue.borealriver.com/blogs/swiftwater-and-whitewater/reading-rivers) 🧪 — 用急流救援的视角讲涡流线、回流、沸腾线（boil line）：沸腾线离跌水越远，回流越危险。
 - [Canyon Magazine：Hydrology](https://canyonmag.net/technical/safety/hydrology/) 🧪 — 峡谷运动角度的水文学，配图清楚，讲回流、涡流、虹吸、滤网（strainer）。
 - [Paddling Magazine：认识河流地貌（River Features）](https://paddlingmag.com/skills/skills-understanding-river-features/) 🧪 — V 字水、涡流、浪、洞等基础地貌一次看完。
+- [Paddling Magazine：Smart Turns — 用读水做出涡流](https://paddlingmag.com/skills/smart-turns-water-reading-for-eddy-exits/) 🧪 — Andrew Westwood：找涡流线上的波谷，船身与波谷线约 90° 切出去；比死记固定出流角度更稳。
+- [Alpacka Raft：Packrafting Safety Part II（读水与风险）](https://alpackaraft.com/blog/packrafting-safety-armchair-high-adventure-part-ii) 🧪 — 层流 vs 湍流、流量与力、弯道/比降/束窄、涡流/浪/洞、滤网与涨水；适合当读水入门长文。
 - [Paddling Magazine：理解风向偏转（weathercocking）与尾鳍](https://paddlingmag.com/skills/strokes-techniques/understanding-weather-cocking-and-skegs/) 🧪 — **偏航必读**：船在侧风下为什么会自己转向迎风，尾鳍怎么平衡；你的 Mini Shark 也配有尾鳍套件。
 - [Paddling Light：偏转（weathercocking）与循迹性（tracking），尾鳍和舵](https://www.paddlinglight.com/articles/kayak-weathercocking-vs-tracking/) 🧪 — 把“偏转”和“循迹性”区分开讲，适合写成知识库的一节。
 - [CCC 海上皮划艇课程讲义：保持方向](https://bookdown.org/rbown250/ccc_sk_notes/maintaining-direction.html) 🧪 — 开源讲义，讲用倾艇、扫桨、尾鳍保持航向，结构清晰。
@@ -115,13 +120,13 @@
 |---|---|
 | 一、组织与协会 | 10 |
 | 二、安全与救援 | 9 |
-| 三、课程与学校 | 4 |
+| 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
-| 五、视频频道和教程 | 13 |
-| 六、读水与水流力学 / 物理 | 18 |
+| 五、视频频道和教程 | 15 |
+| 六、读水与水流力学 / 物理 | 20 |
 | 七、装备评测与知识 | 6 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **76** |
+| **合计** | **81** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
