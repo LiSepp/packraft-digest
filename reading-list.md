@@ -61,6 +61,7 @@
 - [Boyd Ruppelt：Stop Flipping: How to Brace & Stay Upright](https://www.youtube.com/watch?v=8dToz-niUkI) 🧪 — 撑桨（brace）防翻教程，讲的是“快翻时怎么用桨和胯把船救回来”。
 - [Aqua Bound：Skills Session for Whitewater Packrafting](https://aquabound.com/blogs/resources/skills-session-for-whitewater-packrafting) 🧪 — packraft 激流练习单：低/高撑桨、抓涡流、摆渡、冲浪；强调 packraft 没有硬棱边，要自己找平衡点。
 - [Seeka Touring：Packraft paddling technique](https://seekatouring.com/field-notes/packraft-paddling-technique) 🧪 — 短而实用：贴船管的短桨、过髋就抬桨（再往后就变成扫桨导致偏航）、用岸标早修小偏、配平与重心；低撑桨靠胯回正。
+- [TripOutside：Packrafting for Beginners（2026 更新）](https://tripoutside.com/packrafting-for-beginners/) 🧪 — 新手总览：开舱/喷裙/自排水、TiZip 空船更晃更吃风、装载要低而居中、读水与湿式出舱进阶路径；适合当总目录再跳单篇。
 
 ## 六、读水与水流力学 / 物理 🧪
 
@@ -68,6 +69,7 @@
 - [Canyon Magazine：Hydrology](https://canyonmag.net/technical/safety/hydrology/) 🧪 — 峡谷运动角度的水文学，配图清楚，讲回流、涡流、虹吸、滤网（strainer）。
 - [Paddling Magazine：认识河流地貌（River Features）](https://paddlingmag.com/skills/skills-understanding-river-features/) 🧪 — V 字水、涡流、浪、洞等基础地貌一次看完。
 - [Paddling Magazine：Smart Turns — 用读水做出涡流](https://paddlingmag.com/skills/smart-turns-water-reading-for-eddy-exits/) 🧪 — Andrew Westwood：找涡流线上的波谷，船身与波谷线约 90° 切出去；比死记固定出流角度更稳。
+- [Packrafting Queenstown：Hydrology for Packrafters](https://packraftingqueenstown.com/hydrology/) 🧪 — 专为 packraft 写的读水解剖：涡流线、下游 V、缓冲浪、驻波/洞/倾泻、微笑洞 vs 皱眉洞、堰坝/滤网/虹吸/掏空岸；强调双管各吃一股流时容易翻、冷水风险。
 - [Alpacka Raft：Packrafting Safety Part II（读水与风险）](https://alpackaraft.com/blog/packrafting-safety-armchair-high-adventure-part-ii) 🧪 — 层流 vs 湍流、流量与力、弯道/比降/束窄、涡流/浪/洞、滤网与涨水；适合当读水入门长文。
 - [Paddling Magazine：理解风向偏转（weathercocking）与尾鳍](https://paddlingmag.com/skills/strokes-techniques/understanding-weather-cocking-and-skegs/) 🧪 — **偏航必读**：船在侧风下为什么会自己转向迎风，尾鳍怎么平衡；你的 Mini Shark 也配有尾鳍套件。
 - [Paddling Light：偏转（weathercocking）与循迹性（tracking），尾鳍和舵](https://www.paddlinglight.com/articles/kayak-weathercocking-vs-tracking/) 🧪 — 把“偏转”和“循迹性”区分开讲，适合写成知识库的一节。
@@ -89,6 +91,7 @@
 
 - [MRS Mini Shark 官方产品页](https://www.mrsraft.com/product/mini-shark/) — 你的船：标准版外长 291 cm、外宽 87 cm、内宽 38 cm、水线长 260 cm、水线宽 80 cm、船管 24.5 cm、全套约 6.15 kg、建议体重 85 kg、建议载重 105 kg（XL 版外长 315 cm、外宽 91 cm、船管 25.5 cm）。官方定位是皮艇外形的激流 packraft，船管比其他型号细，方便翻船后爬回，低座位补偿稳性。这些参数正好是算稳性的输入。国内官网：[mrsraft.cn](https://mrsraft.cn/) 🇨🇳。
 - [Micro Rafting：Mini Shark](https://www.microrafting.com/products/mini-shark) — 经销商页，标注适用 II 到 IV 级激流，有完整规格表和配件重量，可以和官方参数对照。
+- [DIY Packraft：How to Choose a Packraft](https://www.diypackraft.com/faq/choosing-a-packraft-not-just-diy/) 🧪 — 选船清单：座位高度与划桨姿势、船管直径/座舱宽度如何放大正桨扭矩（偏航）、翘度与航速、自排水 vs 喷裙；对照 Mini Shark 窄管很有用。
 - [Alpacka Raft](https://alpackaraft.com/) — 行业标杆品牌，产品页和指南适合拿来横向对比船型（船管直径、尾部形状、货舱拉链）。
 - [Kokopelli Packrafts](https://kokopelli.com/pages/packrafts) — 另一大品牌，有[型号对比表](https://kokopelli.com/pages/comparison-chart)。
 - [NRS Learn（NRS 学习中心）](https://www.nrs.com/learn/) — 大型划船装备商的知识库：干衣、PFD、救援装备怎么选、怎么用。
@@ -122,11 +125,11 @@
 | 二、安全与救援 | 9 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
-| 五、视频频道和教程 | 15 |
-| 六、读水与水流力学 / 物理 | 20 |
-| 七、装备评测与知识 | 6 |
+| 五、视频频道和教程 | 16 |
+| 六、读水与水流力学 / 物理 | 21 |
+| 七、装备评测与知识 | 7 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **81** |
+| **合计** | **84** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
