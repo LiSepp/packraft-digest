@@ -96,6 +96,8 @@
 - [Kokopelli Packrafts](https://kokopelli.com/pages/packrafts) — 另一大品牌，有[型号对比表](https://kokopelli.com/pages/comparison-chart)。
 - [NRS Learn（NRS 学习中心）](https://www.nrs.com/learn/) — 大型划船装备商的知识库：干衣、PFD、救援装备怎么选、怎么用。
 - [Paddling Magazine：Packraft 基础](https://paddlingmag.com/skills/packrafting-basics/) — packraft 入门知识综述。
+- [BIKEPACKING.com：Bikerafting 新手指南](https://bikepacking.com/plan/bikerafting-guide/) 🧪 — 自行车怎么拆、怎么绑船头，提到平水时船头压一点重量能抵消浆手在后方的重量、减少左右摆动；短渡和长渡/流水的两种绑法。
+- [Bikepackers Foundry：Bikerafting 讲座存档（PDF）](https://bikepackersfoundry.com/wp-content/uploads/2023/03/Bikerafting-presentation-archive-Bow-Waters-Canoe-Club-March-1-2023.pdf) 🧪 — 一份真实的满载 packraft 质量分布：前三分之一约 11%、后三分之一约 9%、中间约 80%（含浆手），每件装备的重量和位置都列了，可作配平示意的参考例子（单人单例）。
 
 ## 八、河流信息与水位工具
 
@@ -127,9 +129,9 @@
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 16 |
 | 六、读水与水流力学 / 物理 | 21 |
-| 七、装备评测与知识 | 7 |
+| 七、装备评测与知识 | 9 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **84** |
+| **合计** | **86** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
