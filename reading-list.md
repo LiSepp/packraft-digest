@@ -29,6 +29,7 @@
 - [ACA Level 4 急流救援课程（示例课程页）](https://americancanoe.org/event/level-4-swiftwater-rescue-skills-course-220/) — 看 ACA 急流救援课具体教什么：识别危险、自救、抛绳、拖船、模拟救援。
 - [《River Rescue: A Manual for Whitewater Safety》第 4 版](https://www.nrs.com/river-rescue-4th-edition-book/pu3d) — Les Bechdel 与 Slim Ray 的经典急流救援手册。[AW 关于它再版的文章](https://www.americanwhitewater.org/article/30371/)。
 - [Paddling Magazine：怎样逃出回流（hydraulic）](https://paddlingmag.com/skills/safety-rescue-skills/how-to-escape-hydraulic/) 🧪 — 被回流（洗衣机）困住时该怎么做，顺带讲了回流的结构。
+- [TGO Magazine：瑞典 Piteälven 河 10 天 packraft 远征](https://www.thegreatoutdoorsmag.com/long-reads/packrafting-pitealven-swedish-lapland/) 🧪 — 多日远征的真实节奏：逐滩侦察、把急流拆段定计划、扛船绕行；结尾是作者没侦察就冲“简单二级”翻船的教训，以及满载后船性会变。
 
 ## 三、课程与学校
 
@@ -62,6 +63,7 @@
 - [Aqua Bound：Skills Session for Whitewater Packrafting](https://aquabound.com/blogs/resources/skills-session-for-whitewater-packrafting) 🧪 — packraft 激流练习单：低/高撑桨、抓涡流、摆渡、冲浪；强调 packraft 没有硬棱边，要自己找平衡点。
 - [Seeka Touring：Packraft paddling technique](https://seekatouring.com/field-notes/packraft-paddling-technique) 🧪 — 短而实用：贴船管的短桨、过髋就抬桨（再往后就变成扫桨导致偏航）、用岸标早修小偏、配平与重心；低撑桨靠胯回正。
 - [TripOutside：Packrafting for Beginners（2026 更新）](https://tripoutside.com/packrafting-for-beginners/) 🧪 — 新手总览：开舱/喷裙/自排水、TiZip 空船更晃更吃风、装载要低而居中、读水与湿式出舱进阶路径；适合当总目录再跳单篇。
+- [Aqua Bound：《Riverbound》短片（14 分钟）](https://www.aquabound.com/blogs/resources/finally-back-on-the-river-after-a-serious-injury) — 脊椎损伤的前漂流向导靠 packraft 重回激流；讲了 packraft 不用翻滚、充气船更安全、可以互相靠拢等特点。
 
 ## 六、读水与水流力学 / 物理 🧪
 
@@ -124,14 +126,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 9 |
+| 二、安全与救援 | 10 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
-| 五、视频频道和教程 | 16 |
+| 五、视频频道和教程 | 17 |
 | 六、读水与水流力学 / 物理 | 21 |
 | 七、装备评测与知识 | 9 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **86** |
+| **合计** | **88** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
