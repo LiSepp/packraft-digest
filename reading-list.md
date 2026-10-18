@@ -29,6 +29,8 @@
 - [ACA Level 4 急流救援课程（示例课程页）](https://americancanoe.org/event/level-4-swiftwater-rescue-skills-course-220/) — 看 ACA 急流救援课具体教什么：识别危险、自救、抛绳、拖船、模拟救援。
 - [《River Rescue: A Manual for Whitewater Safety》第 4 版](https://www.nrs.com/river-rescue-4th-edition-book/pu3d) — Les Bechdel 与 Slim Ray 的经典急流救援手册。[AW 关于它再版的文章](https://www.americanwhitewater.org/article/30371/)。
 - [Paddling Magazine：怎样逃出回流（hydraulic）](https://paddlingmag.com/skills/safety-rescue-skills/how-to-escape-hydraulic/) 🧪 — 被回流（洗衣机）困住时该怎么做，顺带讲了回流的结构。
+- [Paddling Magazine：救生衣认证有多狠（Life Jacket Testing）](https://paddlingmag.com/gear/pfds/life-jacket-testing/) 🧪 — Salus 工厂见闻：侧带吊 350 磅、浸水 24 小时、明火烧两秒、真人 freeboard；解释认证浮力为什么贵、为什么别买山寨浮力背心。
+- [Paddling Magazine：河流桨板别用踝绳（Oregon leash 事故）](https://paddlingmag.com/stories/news-events/paddleboard-leash-accident-oregon/) ⚠️ — Willamette 河踝绳缠倒木溺亡；平水可戴绳、动水要快脱（挂 PFD）或干脆不戴。对 packraft/激流也适用：**水上任何绳子都是缠绕隐患**。
 - [TGO Magazine：瑞典 Piteälven 河 10 天 packraft 远征](https://www.thegreatoutdoorsmag.com/long-reads/packrafting-pitealven-swedish-lapland/) 🧪 — 多日远征的真实节奏：逐滩侦察、把急流拆段定计划、扛船绕行；结尾是作者没侦察就冲“简单二级”翻船的教训，以及满载后船性会变。
 
 ## 三、课程与学校
@@ -126,7 +128,7 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 10 |
+| 二、安全与救援 | 12 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 17 |
@@ -134,6 +136,6 @@
 | 七、装备评测与知识 | 9 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **88** |
+| **合计** | **90** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
