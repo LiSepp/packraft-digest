@@ -91,6 +91,9 @@
 - [论文：《Hydrodynamic evaluation for developing the inflatable kayak》（韩国船舶海洋工程学会刊）](https://koreascience.kr/article/JAKO201330258586708.page) 🧪 — 少见的**充气艇稳性实验**：倾斜试验、回转试验、阻力模型试验，可以借鉴实验方法测你自己的船。
 - [专利 US20180257744A1《Packrafts》](https://patents.google.com/patent/US20180257744A1/en) 🧪 — packraft 船型设计专利，里面有船管形状、尾部体积与稳性的说明和图。
 
+- [ClearGauge：Packrafting vs. Hard-Shell Kayaking（流量极限、初稳性/二稳性、taco）](https://www.cleargaugerivers.com/learn/packrafting-vs-kayaking-flow-limits) 🧪 — 对照充气 packraft 与硬壳艇：初稳性极高、二稳性突然崩；大跌水/强回流可能“taco”对折；高流量缺冲浪动能易被拍停。教学概述，非实测；Mini Shark 船管约 24.5 cm，比文中 10–12 英寸概括偏细。
+- [ClearGauge：How to Read River Currents（顺/逆流 V、洄水、枕头浪、笑脸/皱眉孔、滤网木）](https://www.cleargaugerivers.com/learn/river-eddy-hydrology-reading-currents) 🧪 — 读水基础水力学地图，适合映射到河道动画标注；同样是教学示意，不是实测流场。
+
 ## 七、装备评测与知识
 
 - [MRS Mini Shark 官方产品页](https://www.mrsraft.com/product/mini-shark/) — 你的船：标准版外长 291 cm、外宽 87 cm、内宽 38 cm、水线长 260 cm、水线宽 80 cm、船管 24.5 cm、全套约 6.15 kg、建议体重 85 kg、建议载重 105 kg（XL 版外长 315 cm、外宽 91 cm、船管 25.5 cm）。官方定位是皮艇外形的激流 packraft，船管比其他型号细，方便翻船后爬回，低座位补偿稳性。这些参数正好是算稳性的输入。国内官网：[mrsraft.cn](https://mrsraft.cn/) 🇨🇳。
@@ -133,10 +136,10 @@
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 17 |
-| 六、读水与水流力学 / 物理 | 21 |
+| 六、读水与水流力学 / 物理 | 23 |
 | 七、装备评测与知识 | 10 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **91** |
+| **合计** | **93** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
