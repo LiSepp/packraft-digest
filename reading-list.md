@@ -65,6 +65,7 @@
 - [Aqua Bound：Skills Session for Whitewater Packrafting](https://aquabound.com/blogs/resources/skills-session-for-whitewater-packrafting) 🧪 — packraft 激流练习单：低/高撑桨、抓涡流、摆渡、冲浪；强调 packraft 没有硬棱边，要自己找平衡点。
 - [Seeka Touring：Packraft paddling technique](https://seekatouring.com/field-notes/packraft-paddling-technique) 🧪 — 短而实用：贴船管的短桨、过髋就抬桨（再往后就变成扫桨导致偏航）、用岸标早修小偏、配平与重心；低撑桨靠胯回正。
 - [TripOutside：Packrafting for Beginners（2026 更新）](https://tripoutside.com/packrafting-for-beginners/) 🧪 — 新手总览：开舱/喷裙/自排水、TiZip 空船更晃更吃风、装载要低而居中、读水与湿式出舱进阶路径；适合当总目录再跳单篇。
+- [Seeka Touring：Whitewater packrafting, explained](https://seekatouring.com/field-notes/whitewater-packrafting-explained) 🧪 — 白水专用 packraft vs 平水自排水巡航船对照：翘度、喷裙、大腿带、II 级在小船上已有后果；先训练再买更强的船。Seeka 自划边界是 I 级缓流。
 - [Aqua Bound：《Riverbound》短片（14 分钟）](https://www.aquabound.com/blogs/resources/finally-back-on-the-river-after-a-serious-injury) — 脊椎损伤的前漂流向导靠 packraft 重回激流；讲了 packraft 不用翻滚、充气船更安全、可以互相靠拢等特点。
 
 ## 六、读水与水流力学 / 物理 🧪
@@ -105,6 +106,7 @@
 - [Paddling Magazine：Best Life Jackets For 2026（救生衣选购总览）](https://paddlingmag.com/gear/pfds/best-life-jackets/) — 实测约 39 款后的年度榜：综合 NRS Ninja、激流首选 Kokatat HustleR / Astral GreenJacket、预算款 Onyx MoveVent 等；提醒试穿合身、激流用低轮廓泡沫救生衣而非休闲网背款。和「PFD 认证测试」长文互补（一篇讲怎么测，一篇讲怎么选）。
 - [Paddling Magazine：Packraft 基础](https://paddlingmag.com/skills/packrafting-basics/) — packraft 入门知识综述。
 - [GearJunkie：The 12 Best Packrafts of 2026](https://gearjunkie.com/boats-water/packrafts) 🧪 — 2026-09-02 更新的年度横评：Mage drop-floor 的二稳性过渡弧、MRS Viking EVO 自排水「贴水」手感与积水排空可拖到约 1.5 分钟的机动性代价、Neutron 宽管初稳性、尾鳍/长水线循迹等；对照 Mini Shark 偏细船管很有用。媒体主观归纳，不是实测流场。
+- [DIY Packraft：Inflatable Floor Insert（充气地板插件）](https://www.diypackraft.com/2026/09/25/inflatable-floor-inserts/) 🧪 — Atlin／Skeena／Telkwa 可选插件：提高刚度、可改自排水；座位约抬高 10 cm，建议背带＋少充座位气。规格见[产品页](https://www.diypackraft.com/shop/merchandise/kits/inflatable-floor-insert/)，自排水原理见[FAQ](https://www.diypackraft.com/faq/self-bailing-floor/)。
 - [BIKEPACKING.com：Bikerafting 新手指南](https://bikepacking.com/plan/bikerafting-guide/) 🧪 — 自行车怎么拆、怎么绑船头，提到平水时船头压一点重量能抵消浆手在后方的重量、减少左右摆动；短渡和长渡/流水的两种绑法。
 - [Bikepackers Foundry：Bikerafting 讲座存档（PDF）](https://bikepackersfoundry.com/wp-content/uploads/2023/03/Bikerafting-presentation-archive-Bow-Waters-Canoe-Club-March-1-2023.pdf) 🧪 — 一份真实的满载 packraft 质量分布：前三分之一约 11%、后三分之一约 9%、中间约 80%（含浆手），每件装备的重量和位置都列了，可作配平示意的参考例子（单人单例）。
 
@@ -136,11 +138,11 @@
 | 二、安全与救援 | 12 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
-| 五、视频频道和教程 | 17 |
+| 五、视频频道和教程 | 18 |
 | 六、读水与水流力学 / 物理 | 23 |
-| 七、装备评测与知识 | 11 |
+| 七、装备评测与知识 | 12 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **94** |
+| **合计** | **96** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
