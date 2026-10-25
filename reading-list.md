@@ -35,6 +35,7 @@
 
 - [ClearGauge：Cold Water Shock & Hypothermia（1-10-1 规则）](https://www.cleargaugerivers.com/learn/cold-water-shock-hypothermia-river-safety) 🧪⚠️ — 冷水冲击比失温更先致命（约 15°C 以下即可触发）：第 1 分钟保气道仰浮、约 10 分钟抓紧自救、约 1 小时才进临床失温；Rule of 120／干衣建议；教学归纳，非实测。
 - [ClearGauge：Low-Head Dams／溺水机器](https://www.cleargaugerivers.com/learn/low-head-dams-drowning-machines-safety) ⚠️ — 低水头坝全宽回卷液压、掺气使 PFD 与划水失效；上游识别地平线／白沫带；至少上游远距绕行；旁观者勿入水。闸坝／橡胶坝警示教材。
+- [ClearGauge：Flash Floods in Canyons（峡谷闪洪预警）](https://www.cleargaugerivers.com/learn/flash-flood-indicators-desert-canyons) ⚠️ — 晴空也可遭上游洪水；水色骤变、漂浮物、滚石轰鸣、湿冷风即垂直爬高；雷达要扫整个汇水区。警示教材。
 
 ## 三、课程与学校
 
@@ -99,6 +100,10 @@
 - [ClearGauge：How to Read River Currents（顺/逆流 V、洄水、枕头浪、笑脸/皱眉孔、滤网木）](https://www.cleargaugerivers.com/learn/river-eddy-hydrology-reading-currents) 🧪 — 读水基础水力学地图，适合映射到河道动画标注；同样是教学示意，不是实测流场。
 
 - [Seeka Touring：Strainers and sweepers（滤网与扫枝）](https://seekatouring.com/field-notes/strainers-and-sweepers) 🧪 — 缓流 packraft 最常见木头危险对照：滤网 vs 扫枝、弯道外侧／洪水后藏身处、早定线、贴木向障碍倾、近木改正面猛游爬过；对照 [Reading a river](https://seekatouring.com/field-notes/reading-a-river-for-packrafters)。
+- [Seeka Touring：Eddies and ferry glides（洄水与摆渡）](https://seekatouring.com/field-notes/eddies-and-ferry-glides) 🧪 — 进洄水瞄顶部／夹角过缝／向内倾；摆渡面向上游用夹角借流横渡；短船体后摆渡减速进弯道内侧。缓流练习教案，非白水课。
+- [ClearGauge：Tailwaters vs. Freestone（尾水方波／水电调峰）](https://www.cleargaugerivers.com/learn/tailwaters-vs-freestone-rivers-dam-releases) 🧪⚠️ — 闸坝调峰呈方波水文图，脉冲波下游滞后后可十余分钟涨数英尺；底放水常年约 7–13°C。闸控河读水位必看。
+- [ClearGauge：How to Read a USGS Hydrograph](https://www.cleargaugerivers.com/learn/how-to-read-a-hydrograph) 🧪 — 基流／上升肢／洪峰／下降肢与滞后时间；看 48–72 小时走势而不只看当下 CFS。
+- [ClearGauge：Low Water Paddling（低水读 V／微摆渡／刮底勿向上游倾）](https://www.cleargaugerivers.com/learn/paddling-low-water-hazards) 🧪 — 顺流 V 深槽、逆流 V 躲石；搁浅略向下游倾；石阵后摆渡对齐下一槽。
 
 ## 七、装备评测与知识
 
@@ -140,14 +145,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 14 |
+| 二、安全与救援 | 15 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 18 |
-| 六、读水与水流力学 / 物理 | 24 |
+| 六、读水与水流力学 / 物理 | 28 |
 | 七、装备评测与知识 | 12 |
 | 八、河流信息与水位工具 | 6 |
 | 九、社区与论坛 | 7 |
-| **合计** | **99** |
+| **合计** | **104** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
