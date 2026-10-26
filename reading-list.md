@@ -105,6 +105,11 @@
 - [ClearGauge：How to Read a USGS Hydrograph](https://www.cleargaugerivers.com/learn/how-to-read-a-hydrograph) 🧪 — 基流／上升肢／洪峰／下降肢与滞后时间；看 48–72 小时走势而不只看当下 CFS。
 - [ClearGauge：Low Water Paddling（低水读 V／微摆渡／刮底勿向上游倾）](https://www.cleargaugerivers.com/learn/paddling-low-water-hazards) 🧪 — 顺流 V 深槽、逆流 V 躲石；搁浅略向下游倾；石阵后摆渡对齐下一槽。
 
+- [Seeka Touring：Reading a river for packrafters（读河入门）](https://seekatouring.com/field-notes/reading-a-river-for-packrafters) 🧪 — 弯道外深内浅、顺流 V／逆流 V、洄水线要 commit、滤网比浪更常见；地平线先侦察。缓流入门，非白水课。
+- [ClearGauge：How Heavy Rain Affects River Flow（雨后滞后效应）](https://www.cleargaugerivers.com/learn/how-rain-affects-river-flow) 🧪⚠️ — Lag Effect：大流域洪峰可在雨停后 24–72 小时；闪洪型 vs 慢河；浊度藏障碍。
+- [ClearGauge：QPF／雷达预判涨水](https://www.cleargaugerivers.com/learn/weather-radar-streamflow-forecasting) 🧪 — 定量降水英寸阈值、前期土壤湿度（API）、紧凑 vs 狭长流域滞时；出行前看上游雨核而非等针跳。
+- [ClearGauge：Understanding Whitewater Class I–VI](https://www.cleargaugerivers.com/learn/understanding-whitewater-classes) 🧪 — 国际分级口语化说明；强调 CFS／河形会改写同一级别的实际后果。
+
 ## 七、装备评测与知识
 
 - [MRS Mini Shark 官方产品页](https://www.mrsraft.com/product/mini-shark/) — 你的船：标准版外长 291 cm、外宽 87 cm、内宽 38 cm、水线长 260 cm、水线宽 80 cm、船管 24.5 cm、全套约 6.15 kg、建议体重 85 kg、建议载重 105 kg（XL 版外长 315 cm、外宽 91 cm、船管 25.5 cm）。官方定位是皮艇外形的激流 packraft，船管比其他型号细，方便翻船后爬回，低座位补偿稳性。这些参数正好是算稳性的输入。国内官网：[mrsraft.cn](https://mrsraft.cn/) 🇨🇳。
@@ -120,11 +125,15 @@
 - [BIKEPACKING.com：Bikerafting 新手指南](https://bikepacking.com/plan/bikerafting-guide/) 🧪 — 自行车怎么拆、怎么绑船头，提到平水时船头压一点重量能抵消浆手在后方的重量、减少左右摆动；短渡和长渡/流水的两种绑法。
 - [Bikepackers Foundry：Bikerafting 讲座存档（PDF）](https://bikepackersfoundry.com/wp-content/uploads/2023/03/Bikerafting-presentation-archive-Bow-Waters-Canoe-Club-March-1-2023.pdf) 🧪 — 一份真实的满载 packraft 质量分布：前三分之一约 11%、后三分之一约 9%、中间约 80%（含浆手），每件装备的重量和位置都列了，可作配平示意的参考例子（单人单例）。
 
+- [Seeka Touring：Self-bail vs decked（自排水 vs 喷裙船）](https://seekatouring.com/field-notes/self-bail-vs-decked) 🧪 — 排水孔座位更湿但溅水即排；喷裙船更干但进水需倒空；冷水仍按水温穿。船体排水哲学对照，非 Mini Shark 实测。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
 - [AW 河流数据库（River Index）](https://www.americanwhitewater.org/content/River/view/river-index) — 美国各河段难度、流量范围、危险点，是激流“攻略”数据库的范本。
 - [USGS Water Data](https://waterdata.usgs.gov/) — 美国实时水位/流量数据，学会看曲线后可以理解“流量上涨对河道意味着什么”。
+
+- [ClearGauge：What is CFS?（流量单位）](https://www.cleargaugerivers.com/learn/what-is-cfs) 🧪 — Cubic Feet per Second 定义；CFS（体积流量）vs stage（相对水位）；同水深宽窄河力量不同；可与 [Gage Datum](https://www.cleargaugerivers.com/learn/understanding-river-gage-datum) 连读（0 ft ≠ 河干）。
 - [RiverApp](https://www.riverapp.net/en) — 全球河段与水位 App（以欧洲为主），packraft 和激流玩家常用。
 - [rivermap](https://rivermap.org/map/) — 欧洲河流地图 + 实时水位，地图界面直观。
 - [维基百科：国际河流难度分级](https://en.wikipedia.org/wiki/International_scale_of_river_difficulty) — I–VI 级的定义，读河段攻略前先搞懂。
@@ -149,10 +158,10 @@
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 18 |
-| 六、读水与水流力学 / 物理 | 28 |
-| 七、装备评测与知识 | 12 |
-| 八、河流信息与水位工具 | 6 |
+| 六、读水与水流力学 / 物理 | 32 |
+| 七、装备评测与知识 | 13 |
+| 八、河流信息与水位工具 | 7 |
 | 九、社区与论坛 | 7 |
-| **合计** | **104** |
+| **合计** | **110** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
