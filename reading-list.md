@@ -37,6 +37,8 @@
 - [ClearGauge：Low-Head Dams／溺水机器](https://www.cleargaugerivers.com/learn/low-head-dams-drowning-machines-safety) ⚠️ — 低水头坝全宽回卷液压、掺气使 PFD 与划水失效；上游识别地平线／白沫带；至少上游远距绕行；旁观者勿入水。闸坝／橡胶坝警示教材。
 - [ClearGauge：Flash Floods in Canyons（峡谷闪洪预警）](https://www.cleargaugerivers.com/learn/flash-flood-indicators-desert-canyons) ⚠️ — 晴空也可遭上游洪水；水色骤变、漂浮物、滚石轰鸣、湿冷风即垂直爬高；雷达要扫整个汇水区。警示教材。
 
+- [Seeka Touring：Portaging a packraft（绕行）](https://seekatouring.com/field-notes/portaging-a-packraft) 🧪⚠️ — 看不见干净线路就上岸；堰／低坝一律绕并远离坝脚；木堆当季会变；短绕可充气扛、长绕泄气入包；lining 短绳不绕腕。缓流决策教案。
+
 ## 三、课程与学校
 
 - [APA Packraft 课程大纲（Level 1–3，PDF）](https://www.packraft.org/pages/education/packrafting-curriculum) 🔁 — packraft 专用的分级课程框架，可以拿来当自学检查表。
@@ -127,6 +129,10 @@
 
 - [Seeka Touring：Self-bail vs decked（自排水 vs 喷裙船）](https://seekatouring.com/field-notes/self-bail-vs-decked) 🧪 — 排水孔座位更湿但溅水即排；喷裙船更干但进水需倒空；冷水仍按水温穿。船体排水哲学对照，非 Mini Shark 实测。
 
+- [Seeka Touring：vs Alpacka／MRS／Kokopelli（品牌对照）](https://seekatouring.com/field-notes/seeka-vs-alpacka-mrs-kokopelli) 🧪 — 先按要划的水选船：自排水缓流看 Seeka／Nirvana SB，喷裙巡航看 Expedition／MRS Microraft；表内另列 Viking SB／Gnarwhal。厂商对照，非 Mini Shark 实测。
+- [Seeka Touring：Packraft fabrics and floors（面料与地板）](https://seekatouring.com/field-notes/packraft-materials-explained) 🧪 — TPU 涂层尼龙主流；丹尼只量纱线；管体轻／地板重的常见分工；焊接 vs 胶粘。材料科普。
+- [Seeka Touring：Packraft weight explained（重量从哪来）](https://seekatouring.com/field-notes/packraft-weight-explained) 🧪 — 水上几乎无感、背上每克都算；尺寸／丹尼／地板／喷裙／拉链的取舍；匹配最常走的行程类型。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
@@ -134,6 +140,9 @@
 - [USGS Water Data](https://waterdata.usgs.gov/) — 美国实时水位/流量数据，学会看曲线后可以理解“流量上涨对河道意味着什么”。
 
 - [ClearGauge：What is CFS?（流量单位）](https://www.cleargaugerivers.com/learn/what-is-cfs) 🧪 — Cubic Feet per Second 定义；CFS（体积流量）vs stage（相对水位）；同水深宽窄河力量不同；可与 [Gage Datum](https://www.cleargaugerivers.com/learn/understanding-river-gage-datum) 连读（0 ft ≠ 河干）。
+
+- [ClearGauge：Selecting the Right River Flow（按流量选河）](https://www.cleargaugerivers.com/learn/kayak-flow-rate-selection) 🧪 — 同一段级别随 CFS 改写；低水技术／中水甜点／高水推人；文中点名 packraft 耐造适合低水练习。教学归纳。
+- [ClearGauge：Understanding River Gage Datum（水位基准）](https://www.cleargaugerivers.com/learn/understanding-river-gage-datum) 🧪 — stage ≠ 水深；零点故意低于预期最低水位；负水位≠河干；叠 rating curve。与 CFS／水文图连读。
 - [RiverApp](https://www.riverapp.net/en) — 全球河段与水位 App（以欧洲为主），packraft 和激流玩家常用。
 - [rivermap](https://rivermap.org/map/) — 欧洲河流地图 + 实时水位，地图界面直观。
 - [维基百科：国际河流难度分级](https://en.wikipedia.org/wiki/International_scale_of_river_difficulty) — I–VI 级的定义，读河段攻略前先搞懂。
@@ -154,14 +163,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 15 |
+| 二、安全与救援 | 16 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 18 |
 | 六、读水与水流力学 / 物理 | 32 |
-| 七、装备评测与知识 | 13 |
-| 八、河流信息与水位工具 | 7 |
+| 七、装备评测与知识 | 16 |
+| 八、河流信息与水位工具 | 9 |
 | 九、社区与论坛 | 7 |
-| **合计** | **110** |
+| **合计** | **116** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
