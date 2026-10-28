@@ -39,6 +39,9 @@
 
 - [Seeka Touring：Portaging a packraft（绕行）](https://seekatouring.com/field-notes/portaging-a-packraft) 🧪⚠️ — 看不见干净线路就上岸；堰／低坝一律绕并远离坝脚；木堆当季会变；短绕可充气扛、长绕泄气入包；lining 短绳不绕腕。缓流决策教案。
 
+- [Seeka Touring：Packraft self-rescue（自救）](https://seekatouring.com/field-notes/packraft-self-rescue) 🧪⚠️ — 落水后 30 秒：稳呼吸→找船／桨／岸；动水优先上岸；一手握桨＋抓手；侧面翻正；平趴踢腿回舱；桨绳动水慎用。缓流教案，非白水翻滚课。
+- [Seeka Touring：Choosing a riverside campsite（河岸营地）](https://seekatouring.com/field-notes/choosing-a-riverside-campsite) 🧪⚠️ — 先抬头排枯枝／掏空根；读洪水碎屑带并营在其上；上游雨可夜里涨水，水线插棍作标记；船翻扣拴牢。与闪洪／雨后滞后连读。
+
 ## 三、课程与学校
 
 - [APA Packraft 课程大纲（Level 1–3，PDF）](https://www.packraft.org/pages/education/packrafting-curriculum) 🔁 — packraft 专用的分级课程框架，可以拿来当自学检查表。
@@ -133,6 +136,11 @@
 - [Seeka Touring：Packraft fabrics and floors（面料与地板）](https://seekatouring.com/field-notes/packraft-materials-explained) 🧪 — TPU 涂层尼龙主流；丹尼只量纱线；管体轻／地板重的常见分工；焊接 vs 胶粘。材料科普。
 - [Seeka Touring：Packraft weight explained（重量从哪来）](https://seekatouring.com/field-notes/packraft-weight-explained) 🧪 — 水上几乎无感、背上每克都算；尺寸／丹尼／地板／喷裙／拉链的取舍；匹配最常走的行程类型。
 
+- [Seeka Touring：Overnight packrafting（过夜与满载配平）](https://seekatouring.com/field-notes/overnight-packrafting) 🧪 — 营地重量低位绑船头；满载循迹变直、转弯变钝；座位后堆货抬船头增受风；自排水船大包用干袋上船头；按「一定会湿」打包。厂商教学，非 Mini Shark 满载实测。
+- [Seeka Touring：Packraft vs inflatable kayak](https://seekatouring.com/field-notes/packraft-vs-inflatable-kayak) 🧪 — 短圆管好转向进洄水，长窄充气皮艇滑行／循迹更好；重量决定走水还是开车到坡道。船体对照，非水池数据。
+- [Seeka Touring：How to inflate a packraft（充气与温压）](https://seekatouring.com/field-notes/how-to-inflate-a-packraft) 🧪 — 气袋＋嘴吹；管壁按得动即可勿篮球硬；岸晒热胀、下水冷缩需补气；在下水点再查硬度。
+- [Seeka Touring：Packraft vs SUP](https://seekatouring.com/field-notes/packraft-vs-sup) 🧪 — 坐姿重心近水面 vs 站姿受风如帆；碎浪稳性与冷水落水次数的直观对照。厂商对照，非稳性曲线实测。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
@@ -163,14 +171,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 16 |
+| 二、安全与救援 | 18 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 18 |
 | 六、读水与水流力学 / 物理 | 32 |
-| 七、装备评测与知识 | 16 |
+| 七、装备评测与知识 | 20 |
 | 八、河流信息与水位工具 | 9 |
 | 九、社区与论坛 | 7 |
-| **合计** | **116** |
+| **合计** | **122** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
