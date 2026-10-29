@@ -35,6 +35,7 @@
 
 - [ClearGauge：Cold Water Shock & Hypothermia（1-10-1 规则）](https://www.cleargaugerivers.com/learn/cold-water-shock-hypothermia-river-safety) 🧪⚠️ — 冷水冲击比失温更先致命（约 15°C 以下即可触发）：第 1 分钟保气道仰浮、约 10 分钟抓紧自救、约 1 小时才进临床失温；Rule of 120／干衣建议；教学归纳，非实测。
 - [ClearGauge：Low-Head Dams／溺水机器](https://www.cleargaugerivers.com/learn/low-head-dams-drowning-machines-safety) ⚠️ — 低水头坝全宽回卷液压、掺气使 PFD 与划水失效；上游识别地平线／白沫带；至少上游远距绕行；旁观者勿入水。闸坝／橡胶坝警示教材。
+- [Seeka Touring：Weirs and low-head dams（堰／低水头坝）](https://seekatouring.com/field-notes/weirs-and-low-head-dams) 🧪⚠️ — 人造堰整幅回卷、掺气；矮台阶也危险；早早上岸绕行；有人落卷勿跟进。与 ClearGauge Low-Head Dams、Seeka Portaging 连读。
 - [ClearGauge：Flash Floods in Canyons（峡谷闪洪预警）](https://www.cleargaugerivers.com/learn/flash-flood-indicators-desert-canyons) ⚠️ — 晴空也可遭上游洪水；水色骤变、漂浮物、滚石轰鸣、湿冷风即垂直爬高；雷达要扫整个汇水区。警示教材。
 
 - [Seeka Touring：Portaging a packraft（绕行）](https://seekatouring.com/field-notes/portaging-a-packraft) 🧪⚠️ — 看不见干净线路就上岸；堰／低坝一律绕并远离坝脚；木堆当季会变；短绕可充气扛、长绕泄气入包；lining 短绳不绕腕。缓流决策教案。
@@ -76,6 +77,7 @@
 - [TripOutside：Packrafting for Beginners（2026 更新）](https://tripoutside.com/packrafting-for-beginners/) 🧪 — 新手总览：开舱/喷裙/自排水、TiZip 空船更晃更吃风、装载要低而居中、读水与湿式出舱进阶路径；适合当总目录再跳单篇。
 - [Seeka Touring：Whitewater packrafting, explained](https://seekatouring.com/field-notes/whitewater-packrafting-explained) 🧪 — 白水专用 packraft vs 平水自排水巡航船对照：翘度、喷裙、大腿带、II 级在小船上已有后果；先训练再买更强的船。Seeka 自划边界是 I 级缓流。
 - [Aqua Bound：《Riverbound》短片（14 分钟）](https://www.aquabound.com/blogs/resources/finally-back-on-the-river-after-a-serious-injury) — 脊椎损伤的前漂流向导靠 packraft 重回激流；讲了 packraft 不用翻滚、充气船更安全、可以互相靠拢等特点。
+- [Alpacka Raft：Luck of the Draw（大峡谷 packraft 叙事＋影片）](https://alpackaraft.com/blog/luck-of-the-draw) 🧪⚠️ — 洄水线对冲、尾舱拉链降重心、Granite「洗衣机」游泳、Lava 右侧气泡线躲 Ledge Hole；个人行程叙事，非实测流场。
 
 ## 六、读水与水流力学 / 物理 🧪
 
@@ -140,6 +142,8 @@
 - [Seeka Touring：Packraft vs inflatable kayak](https://seekatouring.com/field-notes/packraft-vs-inflatable-kayak) 🧪 — 短圆管好转向进洄水，长窄充气皮艇滑行／循迹更好；重量决定走水还是开车到坡道。船体对照，非水池数据。
 - [Seeka Touring：How to inflate a packraft（充气与温压）](https://seekatouring.com/field-notes/how-to-inflate-a-packraft) 🧪 — 气袋＋嘴吹；管壁按得动即可勿篮球硬；岸晒热胀、下水冷缩需补气；在下水点再查硬度。
 - [Seeka Touring：Packraft vs SUP](https://seekatouring.com/field-notes/packraft-vs-sup) 🧪 — 坐姿重心近水面 vs 站姿受风如帆；碎浪稳性与冷水落水次数的直观对照。厂商对照，非稳性曲线实测。
+- [Seeka Touring：How to choose a packraft（选船）](https://seekatouring.com/field-notes/how-to-choose-a-packraft) 🧪 — 先写行程再选单／双、自排水／喷裙、管／地板丹尼、船头装载改 trim；额定载重非甜点。与 DIY How to Choose 互补。
+- [Seeka Touring：Packraft vs canoe](https://seekatouring.com/field-notes/packraft-vs-canoe) 🧪 — 长水线独木舟循迹省力 vs 短充气能背到水边但更吃侧风；按抵达方式选型。厂商对照，非阻力曲线。
 
 ## 八、河流信息与水位工具
 
@@ -171,14 +175,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 18 |
+| 二、安全与救援 | 19 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
-| 五、视频频道和教程 | 18 |
+| 五、视频频道和教程 | 19 |
 | 六、读水与水流力学 / 物理 | 32 |
-| 七、装备评测与知识 | 20 |
+| 七、装备评测与知识 | 22 |
 | 八、河流信息与水位工具 | 9 |
 | 九、社区与论坛 | 7 |
-| **合计** | **122** |
+| **合计** | **126** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
