@@ -77,6 +77,7 @@
 - [TripOutside：Packrafting for Beginners（2026 更新）](https://tripoutside.com/packrafting-for-beginners/) 🧪 — 新手总览：开舱/喷裙/自排水、TiZip 空船更晃更吃风、装载要低而居中、读水与湿式出舱进阶路径；适合当总目录再跳单篇。
 - [Seeka Touring：Whitewater packrafting, explained](https://seekatouring.com/field-notes/whitewater-packrafting-explained) 🧪 — 白水专用 packraft vs 平水自排水巡航船对照：翘度、喷裙、大腿带、II 级在小船上已有后果；先训练再买更强的船。Seeka 自划边界是 I 级缓流。
 - [Aqua Bound：《Riverbound》短片（14 分钟）](https://www.aquabound.com/blogs/resources/finally-back-on-the-river-after-a-serious-injury) — 脊椎损伤的前漂流向导靠 packraft 重回激流；讲了 packraft 不用翻滚、充气船更安全、可以互相靠拢等特点。
+- [Darin McQuoid 白水摄影教程（11 篇）](https://www.darinmcquoid.com/tutorials.html) — 北加州白水摄影师：曝光、弱光动作、对焦、广角、追焦、后期、连拍序列；对头顶视角／抽帧做教学素材有用。站内还有 kayak 重量数据库。
 - [Alpacka Raft：Luck of the Draw（大峡谷 packraft 叙事＋影片）](https://alpackaraft.com/blog/luck-of-the-draw) 🧪⚠️ — 洄水线对冲、尾舱拉链降重心、Granite「洗衣机」游泳、Lava 右侧气泡线躲 Ledge Hole；个人行程叙事，非实测流场。
 
 ## 六、读水与水流力学 / 物理 🧪
