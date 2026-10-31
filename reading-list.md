@@ -43,6 +43,8 @@
 - [Seeka Touring：Packraft self-rescue（自救）](https://seekatouring.com/field-notes/packraft-self-rescue) 🧪⚠️ — 落水后 30 秒：稳呼吸→找船／桨／岸；动水优先上岸；一手握桨＋抓手；侧面翻正；平趴踢腿回舱；桨绳动水慎用。缓流教案，非白水翻滚课。
 - [Seeka Touring：Choosing a riverside campsite（河岸营地）](https://seekatouring.com/field-notes/choosing-a-riverside-campsite) 🧪⚠️ — 先抬头排枯枝／掏空根；读洪水碎屑带并营在其上；上游雨可夜里涨水，水线插棍作标记；船翻扣拴牢。与闪洪／雨后滞后连读。
 
+- [National Center for Cold Water Safety（coldwatersafety.org）](https://www.coldwatersafety.org/) ⚠️ — 美国非营利冷水安全中心；核心原则「按水温穿、为落水而穿」，明确反对「气温＋水温 > 120 °F」这类经验法则。冷水季穿衣判断的权威入口。
+
 ## 三、课程与学校
 
 - [APA Packraft 课程大纲（Level 1–3，PDF）](https://www.packraft.org/pages/education/packrafting-curriculum) 🔁 — packraft 专用的分级课程框架，可以拿来当自学检查表。
@@ -176,14 +178,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 19 |
+| 二、安全与救援 | 20 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
-| 五、视频频道和教程 | 19 |
+| 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 32 |
 | 七、装备评测与知识 | 22 |
 | 八、河流信息与水位工具 | 9 |
 | 九、社区与论坛 | 7 |
-| **合计** | **126** |
+| **合计** | **128** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
