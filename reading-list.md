@@ -45,6 +45,8 @@
 
 - [National Center for Cold Water Safety（coldwatersafety.org）](https://www.coldwatersafety.org/) ⚠️ — 美国非营利冷水安全中心；核心原则「按水温穿、为落水而穿」，明确反对「气温＋水温 > 120 °F」这类经验法则。冷水季穿衣判断的权威入口。
 
+- [Seeka Touring：Packrafting in cold water（冷水划行）](https://seekatouring.com/field-notes/packrafting-in-cold-water) 🧪⚠️ — 冷水第一危险是入水瞬间的冷水冲击（喘息／失控呼吸），不是失温；PFD 扣好撑过第一分钟；约 15°C 以下即可触发；按水温穿、短段贴岸、干换洗衣手边可达。与 ClearGauge 1-10-1、coldwatersafety.org 连读；自排水船冷水季尤相关。
+
 ## 三、课程与学校
 
 - [APA Packraft 课程大纲（Level 1–3，PDF）](https://www.packraft.org/pages/education/packrafting-curriculum) 🔁 — packraft 专用的分级课程框架，可以拿来当自学检查表。
@@ -114,6 +116,7 @@
 - [ClearGauge：Tailwaters vs. Freestone（尾水方波／水电调峰）](https://www.cleargaugerivers.com/learn/tailwaters-vs-freestone-rivers-dam-releases) 🧪⚠️ — 闸坝调峰呈方波水文图，脉冲波下游滞后后可十余分钟涨数英尺；底放水常年约 7–13°C。闸控河读水位必看。
 - [ClearGauge：How to Read a USGS Hydrograph](https://www.cleargaugerivers.com/learn/how-to-read-a-hydrograph) 🧪 — 基流／上升肢／洪峰／下降肢与滞后时间；看 48–72 小时走势而不只看当下 CFS。
 - [ClearGauge：Low Water Paddling（低水读 V／微摆渡／刮底勿向上游倾）](https://www.cleargaugerivers.com/learn/paddling-low-water-hazards) 🧪 — 顺流 V 深槽、逆流 V 躲石；搁浅略向下游倾；石阵后摆渡对齐下一槽。
+- [Seeka Touring：Lining and wading（牵绳拖船／涉水）](https://seekatouring.com/field-notes/lining-and-wading-a-packraft) 🧪⚠️ — 浅槽碎石可船头牵绳 lining 或涉水拖，堰／木堆仍绕行；可松手让船漂、勿因抓绳失足；人在上游侧、船在下游侧；动水不过膝防夹脚；选弯道内侧。与 Portaging、ClearGauge 低水文连读。
 
 - [Seeka Touring：Reading a river for packrafters（读河入门）](https://seekatouring.com/field-notes/reading-a-river-for-packrafters) 🧪 — 弯道外深内浅、顺流 V／逆流 V、洄水线要 commit、滤网比浪更常见；地平线先侦察。缓流入门，非白水课。
 - [ClearGauge：How Heavy Rain Affects River Flow（雨后滞后效应）](https://www.cleargaugerivers.com/learn/how-rain-affects-river-flow) 🧪⚠️ — Lag Effect：大流域洪峰可在雨停后 24–72 小时；闪洪型 vs 慢河；浊度藏障碍。
@@ -178,14 +181,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 20 |
+| 二、安全与救援 | 21 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 32 |
+| 六、读水与水流力学 / 物理 | 33 |
 | 七、装备评测与知识 | 22 |
 | 八、河流信息与水位工具 | 9 |
 | 九、社区与论坛 | 7 |
-| **合计** | **128** |
+| **合计** | **130** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
