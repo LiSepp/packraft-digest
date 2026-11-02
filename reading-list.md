@@ -151,6 +151,12 @@
 - [Seeka Touring：How to choose a packraft（选船）](https://seekatouring.com/field-notes/how-to-choose-a-packraft) 🧪 — 先写行程再选单／双、自排水／喷裙、管／地板丹尼、船头装载改 trim；额定载重非甜点。与 DIY How to Choose 互补。
 - [Seeka Touring：Packraft vs canoe](https://seekatouring.com/field-notes/packraft-vs-canoe) 🧪 — 长水线独木舟循迹省力 vs 短充气能背到水边但更吃侧风；按抵达方式选型。厂商对照，非阻力曲线。
 
+
+- [Seeka Touring：How to pack a packraft（收纳卷船）](https://seekatouring.com/field-notes/how-to-pack-a-packraft) 🧪 — 先排气再折；按包宽对折后从远端卷；座位另卷；卷筒贴背中高位；尖物隔离；湿收可、回家摊干。与 inflate／overnight 连读。
+- [Seeka Touring：Packraft day-trip packing list（一日清单）](https://seekatouring.com/field-notes/packraft-packing-list) 🧪⚠️ — 自排水决定装备逻辑；PFD 穿身上；气袋／四分桨／湿走鞋／哨／防水通讯；告诉别人出入水点。缓流检查表。
+- [Seeka Touring：Your new packraft first steps（新船首划）](https://seekatouring.com/field-notes/new-packraft-first-steps) 🧪 — 家中充气保压、阀门手感、低压「拇指可按」；地板坐感；平水一小时练上下船与小修正；修补包跟船。与 How to inflate 连读。
+- [Seeka Touring：Carrying a packraft on a hike（徒步背船）](https://seekatouring.com/field-notes/carrying-a-packraft-on-a-hike) 🧪 — 髋负重＋船卷贴背；桨叶朝下侧装；灌木道船进包、湿船可外挂。与 How to pack 成对。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
@@ -186,9 +192,9 @@
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 33 |
-| 七、装备评测与知识 | 22 |
+| 七、装备评测与知识 | 26 |
 | 八、河流信息与水位工具 | 9 |
 | 九、社区与论坛 | 7 |
-| **合计** | **130** |
+| **合计** | **134** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
