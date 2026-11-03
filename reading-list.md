@@ -123,6 +123,11 @@
 - [ClearGauge：QPF／雷达预判涨水](https://www.cleargaugerivers.com/learn/weather-radar-streamflow-forecasting) 🧪 — 定量降水英寸阈值、前期土壤湿度（API）、紧凑 vs 狭长流域滞时；出行前看上游雨核而非等针跳。
 - [ClearGauge：Understanding Whitewater Class I–VI](https://www.cleargaugerivers.com/learn/understanding-whitewater-classes) 🧪 — 国际分级口语化说明；强调 CFS／河形会改写同一级别的实际后果。
 
+
+- [Seeka Touring：Packrafting in wind（风与偏航）](https://seekatouring.com/field-notes/packrafting-in-wind) 🧪 — 短船体水线抓航向差、人坐高像帆；早出、往返先逆风、贴背风岸；桨叶放低短促节奏；见白帽上岸收船。Mini Shark 平水侧风日决策清单；缓流教案，非实测风阻。
+- [Seeka Touring：Lake crossings（越湖）](https://seekatouring.com/field-notes/lake-crossings-in-a-packraft) 🧪⚠️ — 岸线默认、直线越湖看暴露时间；fetch 越长浪越大；尽早／选窄颈／设折返与应急登陆。与 Packrafting in wind 连读。
+- [Seeka Touring：Estuaries and tides（河口与潮汐）](https://seekatouring.com/field-notes/packrafting-estuaries-and-tides) 🧪 — 先潮表后地图；河口内潮时滞后；涨上退回或步行上游再借退潮；平潮过窄槽；低潮前找主槽防搁滩。感潮河段可参考（换本地潮汐表）。
+
 ## 七、装备评测与知识
 
 - [MRS Mini Shark 官方产品页](https://www.mrsraft.com/product/mini-shark/) — 你的船：标准版外长 291 cm、外宽 87 cm、内宽 38 cm、水线长 260 cm、水线宽 80 cm、船管 24.5 cm、全套约 6.15 kg、建议体重 85 kg、建议载重 105 kg（XL 版外长 315 cm、外宽 91 cm、船管 25.5 cm）。官方定位是皮艇外形的激流 packraft，船管比其他型号细，方便翻船后爬回，低座位补偿稳性。这些参数正好是算稳性的输入。国内官网：[mrsraft.cn](https://mrsraft.cn/) 🇨🇳。
@@ -156,6 +161,10 @@
 - [Seeka Touring：Packraft day-trip packing list（一日清单）](https://seekatouring.com/field-notes/packraft-packing-list) 🧪⚠️ — 自排水决定装备逻辑；PFD 穿身上；气袋／四分桨／湿走鞋／哨／防水通讯；告诉别人出入水点。缓流检查表。
 - [Seeka Touring：Your new packraft first steps（新船首划）](https://seekatouring.com/field-notes/new-packraft-first-steps) 🧪 — 家中充气保压、阀门手感、低压「拇指可按」；地板坐感；平水一小时练上下船与小修正；修补包跟船。与 How to inflate 连读。
 - [Seeka Touring：Carrying a packraft on a hike（徒步背船）](https://seekatouring.com/field-notes/carrying-a-packraft-on-a-hike) 🧪 — 髋负重＋船卷贴背；桨叶朝下侧装；灌木道船进包、湿船可外挂。与 How to pack 成对。
+
+
+- [Seeka Touring：Packraft repair kit（野外修补）](https://seekatouring.com/field-notes/packraft-repair-kit) 🧪 — 自粘补丁救急＋聚氨酯胶／补布；皂泡找针孔；补丁每边外扩 ≥15 mm；接缝大撕回家修。与 first steps／how to pack 连读。
+- [Seeka Touring：Flying with a packraft（托运登机）](https://seekatouring.com/field-notes/flying-with-a-packraft) — 泄气紧卷衣物包裹、桨叶防磨；目的地气袋充；CO₂／锂电池电泵／燃料先查航司危险品；出入境洗干申报。
 
 ## 八、河流信息与水位工具
 
@@ -191,10 +200,10 @@
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 33 |
-| 七、装备评测与知识 | 26 |
+| 六、读水与水流力学 / 物理 | 36 |
+| 七、装备评测与知识 | 28 |
 | 八、河流信息与水位工具 | 9 |
 | 九、社区与论坛 | 7 |
-| **合计** | **134** |
+| **合计** | **139** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
