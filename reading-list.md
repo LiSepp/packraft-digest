@@ -179,6 +179,7 @@
 - [RiverApp](https://www.riverapp.net/en) — 全球河段与水位 App（以欧洲为主），packraft 和激流玩家常用。
 - [rivermap](https://rivermap.org/map/) — 欧洲河流地图 + 实时水位，地图界面直观。
 - [维基百科：国际河流难度分级](https://en.wikipedia.org/wiki/International_scale_of_river_difficulty) — I–VI 级的定义，读河段攻略前先搞懂。
+- [Seeka Touring：Reading a weather forecast for paddling（读天气预报）](https://seekatouring.com/field-notes/weather-forecasts-for-paddlers) 🧪 — 逐小时平均风／阵风／风向／锋面时刻／上游降雨／预警；离岸风最危险；km/h 与节换算；天气要和水位站一起看。与 Packrafting in wind 成对。
 
 ## 九、社区与论坛
 
@@ -202,8 +203,8 @@
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 36 |
 | 七、装备评测与知识 | 28 |
-| 八、河流信息与水位工具 | 9 |
+| 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **139** |
+| **合计** | **140** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
