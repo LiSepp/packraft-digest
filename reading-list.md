@@ -165,6 +165,8 @@
 
 - [Seeka Touring：Packraft repair kit（野外修补）](https://seekatouring.com/field-notes/packraft-repair-kit) 🧪 — 自粘补丁救急＋聚氨酯胶／补布；皂泡找针孔；补丁每边外扩 ≥15 mm；接缝大撕回家修。与 first steps／how to pack 连读。
 - [Seeka Touring：Flying with a packraft（托运登机）](https://seekatouring.com/field-notes/flying-with-a-packraft) — 泄气紧卷衣物包裹、桨叶防磨；目的地气袋充；CO₂／锂电池电泵／燃料先查航司危险品；出入境洗干申报。
+- [Seeka Touring：River shuttle logistics（河段接驳）](https://seekatouring.com/field-notes/river-shuttle-logistics) — 四种回程：两车接驳／单车接驳／走回上游／环线；出口车钥匙进船内干袋；出发前确认出口从水上认得出；湖上先顶风、潮汐水域让回程顺潮。与 Packrafting without a car 连读。
+- [Seeka Touring：Packrafting without a car（无车划船）](https://seekatouring.com/field-notes/packrafting-without-a-car) — 先看时刻表再看地图：找沿河两站一段河；末班车倒推划行时间；确认上下水点的合法通道；折叠单车接驳先查运营方规定。
 
 ## 八、河流信息与水位工具
 
@@ -202,9 +204,9 @@
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 36 |
-| 七、装备评测与知识 | 28 |
+| 七、装备评测与知识 | 30 |
 | 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **140** |
+| **合计** | **142** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
