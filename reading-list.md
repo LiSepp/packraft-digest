@@ -47,6 +47,9 @@
 
 - [Seeka Touring：Packrafting in cold water（冷水划行）](https://seekatouring.com/field-notes/packrafting-in-cold-water) 🧪⚠️ — 冷水第一危险是入水瞬间的冷水冲击（喘息／失控呼吸），不是失温；PFD 扣好撑过第一分钟；约 15°C 以下即可触发；按水温穿、短段贴岸、干换洗衣手边可达。与 ClearGauge 1-10-1、coldwatersafety.org 连读；自排水船冷水季尤相关。
 
+- [Seeka Touring：Towing and rafting up（并船与拖带）](https://seekatouring.com/field-notes/towing-and-rafting-up) 🧪⚠️ — 并船抓把手成稳定平台；侧风先想下风漂移；接触拖／带快脱的拖绳；动水优先靠岸；绳子勿死结自身。平水结伴教案，与 self-rescue／wind 连读。
+- [Seeka Touring：Packraft safety basics（安全底线）](https://seekatouring.com/field-notes/packraft-safety-basics) ⚠️ — PFD 必穿扣好；冷水冲击秒级；行程报备；陌生水勿独划；风／涨水敢扛船。缓流出发前检查表。
+
 ## 三、课程与学校
 
 - [APA Packraft 课程大纲（Level 1–3，PDF）](https://www.packraft.org/pages/education/packrafting-curriculum) 🔁 — packraft 专用的分级课程框架，可以拿来当自学检查表。
@@ -168,6 +171,8 @@
 - [Seeka Touring：River shuttle logistics（河段接驳）](https://seekatouring.com/field-notes/river-shuttle-logistics) — 四种回程：两车接驳／单车接驳／走回上游／环线；出口车钥匙进船内干袋；出发前确认出口从水上认得出；湖上先顶风、潮汐水域让回程顺潮。与 Packrafting without a car 连读。
 - [Seeka Touring：Packrafting without a car（无车划船）](https://seekatouring.com/field-notes/packrafting-without-a-car) — 先看时刻表再看地图：找沿河两站一段河；末班车倒推划行时间；确认上下水点的合法通道；折叠单车接驳先查运营方规定。
 
+- [Seeka Touring：Packraft care and storage（养护与存放）](https://seekatouring.com/field-notes/packraft-care-and-storage) 🧪 — 淡水冲含排水孔；阀门开晾；咸水当天冲；松卷换折痕；忌湿收／热车／拖岩／烈日充气暴晒；行前充气保压摸缝。与 repair kit／how to pack 连读。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
@@ -199,14 +204,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 21 |
+| 二、安全与救援 | 23 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 36 |
-| 七、装备评测与知识 | 30 |
+| 七、装备评测与知识 | 31 |
 | 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **142** |
+| **合计** | **145** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
