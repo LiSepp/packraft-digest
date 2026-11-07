@@ -173,6 +173,9 @@
 
 - [Seeka Touring：Packraft care and storage（养护与存放）](https://seekatouring.com/field-notes/packraft-care-and-storage) 🧪 — 淡水冲含排水孔；阀门开晾；咸水当天冲；松卷换折痕；忌湿收／热车／拖岩／烈日充气暴晒；行前充气保压摸缝。与 repair kit／how to pack 连读。
 
+- [Seeka Touring：Treating water on packraft trips（河水饮用处理）](https://seekatouring.com/field-notes/water-treatment-on-packraft-trips) 🧪⚠️ — 煮沸／过滤／药剂／UV 对照；蓝藻毒素与化学污染多数野外法无效；取流动段、营地上游；主法＋备用。澳新语境，当地水质公告优先。
+- [Seeka Touring：Leave no trace packrafting（无痕与跨水域清洁）](https://seekatouring.com/field-notes/leave-no-trace-packrafting) 🧪 — 既有营地／炉具优先；洗碗离水；跨流域 Check→Clean→Dry；私有岸获准。与 care and storage 连读。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
@@ -209,9 +212,9 @@
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 36 |
-| 七、装备评测与知识 | 31 |
+| 七、装备评测与知识 | 33 |
 | 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **145** |
+| **合计** | **147** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
