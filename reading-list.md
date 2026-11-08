@@ -130,6 +130,7 @@
 - [Seeka Touring：Packrafting in wind（风与偏航）](https://seekatouring.com/field-notes/packrafting-in-wind) 🧪 — 短船体水线抓航向差、人坐高像帆；早出、往返先逆风、贴背风岸；桨叶放低短促节奏；见白帽上岸收船。Mini Shark 平水侧风日决策清单；缓流教案，非实测风阻。
 - [Seeka Touring：Lake crossings（越湖）](https://seekatouring.com/field-notes/lake-crossings-in-a-packraft) 🧪⚠️ — 岸线默认、直线越湖看暴露时间；fetch 越长浪越大；尽早／选窄颈／设折返与应急登陆。与 Packrafting in wind 连读。
 - [Seeka Touring：Estuaries and tides（河口与潮汐）](https://seekatouring.com/field-notes/packrafting-estuaries-and-tides) 🧪 — 先潮表后地图；河口内潮时滞后；涨上退回或步行上游再借退潮；平潮过窄槽；低潮前找主槽防搁滩。感潮河段可参考（换本地潮汐表）。
+- [Seeka Touring：Packraft trim and seating（纵倾与坐姿）](https://seekatouring.com/field-notes/packraft-trim-and-seating) 🧪 — 短船体人占大部分重量：坐太后船头翘起受风漂、偏航；目标水平或船头略低。重而密的放低放中，轻而蓬的绑船头且压低（高堆像帆）；顶风船头略低、动水重心居中；左右失衡会持续偏向重侧；每次下水五分钟岸边检查。与 Packrafting in wind 连读。
 
 ## 七、装备评测与知识
 
@@ -211,10 +212,10 @@
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 36 |
+| 六、读水与水流力学 / 物理 | 37 |
 | 七、装备评测与知识 | 33 |
 | 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **147** |
+| **合计** | **148** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
