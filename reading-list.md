@@ -49,6 +49,7 @@
 
 - [Seeka Touring：Towing and rafting up（并船与拖带）](https://seekatouring.com/field-notes/towing-and-rafting-up) 🧪⚠️ — 并船抓把手成稳定平台；侧风先想下风漂移；接触拖／带快脱的拖绳；动水优先靠岸；绳子勿死结自身。平水结伴教案，与 self-rescue／wind 连读。
 - [Seeka Touring：Packraft safety basics（安全底线）](https://seekatouring.com/field-notes/packraft-safety-basics) ⚠️ — PFD 必穿扣好；冷水冲击秒级；行程报备；陌生水勿独划；风／涨水敢扛船。缓流出发前检查表。
+- [r/whitewater：How to correctly run a tow tether（救援腰带／牛尾拖绳的穿法争论）](https://www.reddit.com/r/whitewater/comments/1xuc5c3/how_to_correctly_run_a_tow_tether_when_kayaking/) ⚠️ — 贴主是视频（未看）；评论里多位向导争论快脱扣要不要穿过三档扣（tri-glide）：绕过更容易脱、穿过更适合「活饵」救援；共识是**多余织带剪短到扣外约 3 cm、定期带载练习脱离**。另有人主张用吊带握在桨上拖船、或干脆少用拖绳以免缠绕。与 Seeka 并船拖带连读。
 
 ## 三、课程与学校
 
@@ -210,7 +211,7 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 23 |
+| 二、安全与救援 | 24 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
@@ -218,6 +219,6 @@
 | 七、装备评测与知识 | 35 |
 | 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **150** |
+| **合计** | **151** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
