@@ -114,11 +114,14 @@
 
 - [ClearGauge：Packrafting vs. Hard-Shell Kayaking（流量极限、初稳性/二稳性、taco）](https://www.cleargaugerivers.com/learn/packrafting-vs-kayaking-flow-limits) 🧪 — 对照充气 packraft 与硬壳艇：初稳性极高、二稳性突然崩；大跌水/强回流可能“taco”对折；高流量缺冲浪动能易被拍停。教学概述，非实测；Mini Shark 船管约 24.5 cm，比文中 10–12 英寸概括偏细。
 - [ClearGauge：How to Read River Currents（顺/逆流 V、洄水、枕头浪、笑脸/皱眉孔、滤网木）](https://www.cleargaugerivers.com/learn/river-eddy-hydrology-reading-currents) 🧪 — 读水基础水力学地图，适合映射到河道动画标注；同样是教学示意，不是实测流场。
+- [ClearGauge：River Hydraulics Explained（洞／倾泻／皱眉回流与脱身）](https://www.cleargaugerivers.com/learn/river-hydraulics-holes-pour-overs-keeper-reversals) 🧪⚠️ — 水跃与回流结构：倾泻、回冲、沸腾线、底层外出流；笑脸洞外排、皱眉洞向中心收；掺气后密度下降、救生衣浮力变小（文中约 0.5–0.6 g/cm³ 为教学估算）。被困时向肩部游或蜷身进入底层外出流。教学文，非实测；与 Queenstown 读水解剖、维基「水跃」连读。
 
 - [Seeka Touring：Strainers and sweepers（滤网与扫枝）](https://seekatouring.com/field-notes/strainers-and-sweepers) 🧪 — 缓流 packraft 最常见木头危险对照：滤网 vs 扫枝、弯道外侧／洪水后藏身处、早定线、贴木向障碍倾、近木改正面猛游爬过；对照 [Reading a river](https://seekatouring.com/field-notes/reading-a-river-for-packrafters)。
+- [ClearGauge：River Strainers and Sweepers（滤网力学与落水自救）](https://www.cleargaugerivers.com/learn/river-strainers-sweepers-avoidance-rescue) 🧪⚠️ — 滤网无垫浪、水穿枝桠把人压向树干；弯道外侧／分汊／桥墩；耳听嘶声、早做反向摆渡；扫枝勿仰身钻；落水不要脚朝下游漂进树，改为俯卧全力从树干上方爬过。教学估算（如约 5–6 mph 时超过约 500 磅）非实测。与 Seeka 滤网文连读。
 - [Seeka Touring：Eddies and ferry glides（洄水与摆渡）](https://seekatouring.com/field-notes/eddies-and-ferry-glides) 🧪 — 进洄水瞄顶部／夹角过缝／向内倾；摆渡面向上游用夹角借流横渡；短船体后摆渡减速进弯道内侧。缓流练习教案，非白水课。
 - [ClearGauge：Tailwaters vs. Freestone（尾水方波／水电调峰）](https://www.cleargaugerivers.com/learn/tailwaters-vs-freestone-rivers-dam-releases) 🧪⚠️ — 闸坝调峰呈方波水文图，脉冲波下游滞后后可十余分钟涨数英尺；底放水常年约 7–13°C。闸控河读水位必看。
 - [ClearGauge：How to Read a USGS Hydrograph](https://www.cleargaugerivers.com/learn/how-to-read-a-hydrograph) 🧪 — 基流／上升肢／洪峰／下降肢与滞后时间；看 48–72 小时走势而不只看当下 CFS。
+- [ClearGauge：The Diurnal Runoff Cycle（融雪河日周期径流）](https://www.cleargaugerivers.com/learn/diurnal-snowmelt-river-flow-afternoon-spikes) 🧪 — 高山融雪河晴天也会下午／夜里涨：日照峰值约 13–14 时，滞后约 4–10 小时后主河道见峰；源头溪约 1–3 小时、中等峡谷约 4–8 小时、大河系约 10–18 小时。看夜间冻结高度（不回冻可能连涨多日）和 7 日锯齿水文图的振幅／晨谷。教学归纳，非某次实测；与雨后滞后连读。
 - [ClearGauge：Low Water Paddling（低水读 V／微摆渡／刮底勿向上游倾）](https://www.cleargaugerivers.com/learn/paddling-low-water-hazards) 🧪 — 顺流 V 深槽、逆流 V 躲石；搁浅略向下游倾；石阵后摆渡对齐下一槽。
 - [Seeka Touring：Lining and wading（牵绳拖船／涉水）](https://seekatouring.com/field-notes/lining-and-wading-a-packraft) 🧪⚠️ — 浅槽碎石可船头牵绳 lining 或涉水拖，堰／木堆仍绕行；可松手让船漂、勿因抓绳失足；人在上游侧、船在下游侧；动水不过膝防夹脚；选弯道内侧。与 Portaging、ClearGauge 低水文连读。
 
@@ -215,10 +218,10 @@
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 37 |
+| 六、读水与水流力学 / 物理 | 40 |
 | 七、装备评测与知识 | 35 |
 | 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **151** |
+| **合计** | **154** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
