@@ -42,6 +42,7 @@
 
 - [Seeka Touring：Packraft self-rescue（自救）](https://seekatouring.com/field-notes/packraft-self-rescue) 🧪⚠️ — 落水后 30 秒：稳呼吸→找船／桨／岸；动水优先上岸；一手握桨＋抓手；侧面翻正；平趴踢腿回舱；桨绳动水慎用。缓流教案，非白水翻滚课。
 - [Seeka Touring：Choosing a riverside campsite（河岸营地）](https://seekatouring.com/field-notes/choosing-a-riverside-campsite) 🧪⚠️ — 先抬头排枯枝／掏空根；读洪水碎屑带并营在其上；上游雨可夜里涨水，水线插棍作标记；船翻扣拴牢。与闪洪／雨后滞后连读。
+- [ClearGauge：River Camping Safety（河岸宿营与夜间涨水）](https://www.cleargaugerivers.com/learn/river-camping-high-water-safety-campsite-selection) 🧪⚠️ — 别把傍晚水线当一夜水位：找碎屑带、树干泥线、植被界和峡谷「浴缸圈」判近期高水位。闸控尾水下午放水，脉冲可能 6–12 小时后半夜到营地、水位一下子涨约 0.9–1.8 m（3–6 英尺；教学归纳）；文中建议帐篷和装备至少高出当晚水线约 1.8–2.4 m（6–8 英尺）。沙洲有掏空崩岸和从下面渗水变软的风险；河心低沙洲只作应急、弯道外侧不要营。过夜两点系船，水边插棍看涨落。与 Seeka 河岸营地、闪洪、尾水方波连读。教学文，非实测。
 
 - [National Center for Cold Water Safety（coldwatersafety.org）](https://www.coldwatersafety.org/) ⚠️ — 美国非营利冷水安全中心；核心原则「按水温穿、为落水而穿」，明确反对「气温＋水温 > 120 °F」这类经验法则。冷水季穿衣判断的权威入口。
 
@@ -182,6 +183,7 @@
 - [Seeka Touring：Leave no trace packrafting（无痕与跨水域清洁）](https://seekatouring.com/field-notes/leave-no-trace-packrafting) 🧪 — 既有营地／炉具优先；洗碗离水；跨流域 Check→Clean→Dry；私有岸获准。与 care and storage 连读。
 - [Iron Raft：The Packraft MOT（入冬／开春六步体检）](https://www.iron-raft.co.uk/blogs/tips-tricks-1/the-packraft-mot-a-six-step-health-check-before-spring) — 外观巡检→过夜保压（注意室温降低会让气管变软，要在同温下比较）→肥皂水找漏（先查阀门、焊缝、TiZip 两端、旧补丁边缘）→阀门清沙、拉链清洁薄润滑→座椅／绑带／D 环拉力检查→救生衣、桨、充气袋、修补包盘点；收纳前别喷亮光保护剂，会让修补胶粘不牢。
 - [GearJunkie：Alpacka Mage 长评](https://gearjunkie.com/boats-water/alpacka-raft-mage-review) 🧪 — 充气下沉底板＋舭角换来二次稳性和压边能力，代价是初稳性低、浅水刮底易侧翻；平底船的对照案例。
+- [The Radavist：Alpacka Chinook 平水 packraft 评测（Spencer Harding）](https://theradavist.com/alpacka-raft-chinook-review) 🧪 — 长船体＋可拆艉鳍对付传统短 packraft 的两个痛点：停桨容易原地掉头约 180°，以及高干舷在顶风里像帆。评测者在约 16–24 km/h（10–15 mph）顶风里觉得航向只偏几度；随意划约 4–4.8 km/h，加力约 6.4 km/h。代价是没有脚撑、大腿带不好发力、Cargo Fly 拉链偏左、喷裙在烈日下闷热；约 4.1 kg、1700 美元。个人体验，不是测阻力。可与 Mage 长评对照：一条走平水循迹，一条走白水二次稳性。
 
 ## 八、河流信息与水位工具
 
@@ -214,14 +216,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 24 |
+| 二、安全与救援 | 25 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 40 |
-| 七、装备评测与知识 | 35 |
+| 七、装备评测与知识 | 36 |
 | 八、河流信息与水位工具 | 10 |
 | 九、社区与论坛 | 7 |
-| **合计** | **154** |
+| **合计** | **156** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
