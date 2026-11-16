@@ -114,6 +114,7 @@
 - [专利 US20180257744A1《Packrafts》](https://patents.google.com/patent/US20180257744A1/en) 🧪 — packraft 船型设计专利，里面有船管形状、尾部体积与稳性的说明和图。
 
 - [ClearGauge：Packrafting vs. Hard-Shell Kayaking（流量极限、初稳性/二稳性、taco）](https://www.cleargaugerivers.com/learn/packrafting-vs-kayaking-flow-limits) 🧪 — 对照充气 packraft 与硬壳艇：初稳性极高、二稳性突然崩；大跌水/强回流可能“taco”对折；高流量缺冲浪动能易被拍停。教学概述，非实测；Mini Shark 船管约 24.5 cm，比文中 10–12 英寸概括偏细。
+- [ClearGauge：Canoe Flow Rate Guide（敞舱独木舟流量、自由液面与侧撞向障碍倾）](https://www.cleargaugerivers.com/learn/canoe-river-flow-rates-navigating-moving-water) 🧪⚠️ — 敞舱无甲板，舱内几英寸水就会变成来回晃的压舱（文中约超过 250 磅为教学估算），自由液面效应会抽走初稳性。船横着撞石时不要向上游躲开，应向障碍倾、抬起上游舷，避免来流灌舱。文中 200–800 cfs 等区间是北美常见观光河上敞舱独木舟的教学分档，不可套到 Mini Shark 或其他 packraft。与 Packrafting vs. Kayaking、低水读 V、CFS ≠ 水深连读。
 - [ClearGauge：How to Read River Currents（顺/逆流 V、洄水、枕头浪、笑脸/皱眉孔、滤网木）](https://www.cleargaugerivers.com/learn/river-eddy-hydrology-reading-currents) 🧪 — 读水基础水力学地图，适合映射到河道动画标注；同样是教学示意，不是实测流场。
 - [ClearGauge：River Hydraulics Explained（洞／倾泻／皱眉回流与脱身）](https://www.cleargaugerivers.com/learn/river-hydraulics-holes-pour-overs-keeper-reversals) 🧪⚠️ — 水跃与回流结构：倾泻、回冲、沸腾线、底层外出流；笑脸洞外排、皱眉洞向中心收；掺气后密度下降、救生衣浮力变小（文中约 0.5–0.6 g/cm³ 为教学估算）。被困时向肩部游或蜷身进入底层外出流。教学文，非实测；与 Queenstown 读水解剖、维基「水跃」连读。
 
@@ -195,6 +196,7 @@
 
 - [ClearGauge：Selecting the Right River Flow（按流量选河）](https://www.cleargaugerivers.com/learn/kayak-flow-rate-selection) 🧪 — 同一段级别随 CFS 改写；低水技术／中水甜点／高水推人；文中点名 packraft 耐造适合低水练习。教学归纳。
 - [ClearGauge：Understanding River Gage Datum（水位基准）](https://www.cleargaugerivers.com/learn/understanding-river-gage-datum) 🧪 — stage ≠ 水深；零点故意低于预期最低水位；负水位≠河干；叠 rating curve。与 CFS／水文图连读。
+- [Seeka Touring：River gauges explained（水位站：两个数字和一条趋势线）](https://seekatouring.com/field-notes/river-gauges-explained) 🧪 — 水位高度相对该站零点，不是水深，也不能跨河比较；流量由 rating curve 换算，洪水改河床后可能失效。先看近几日趋势（走平／回落／上升／尖峰），再看当前值；核对上游站、支流和闸坝放水；自己记下每次的读数与河感当参照。门户写的是澳新机构，国内改看水利部，方法相同。与 Gage Datum、CFS、水文图连读。
 - [RiverApp](https://www.riverapp.net/en) — 全球河段与水位 App（以欧洲为主），packraft 和激流玩家常用。
 - [rivermap](https://rivermap.org/map/) — 欧洲河流地图 + 实时水位，地图界面直观。
 - [维基百科：国际河流难度分级](https://en.wikipedia.org/wiki/International_scale_of_river_difficulty) — I–VI 级的定义，读河段攻略前先搞懂。
@@ -220,10 +222,10 @@
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 40 |
+| 六、读水与水流力学 / 物理 | 41 |
 | 七、装备评测与知识 | 36 |
-| 八、河流信息与水位工具 | 10 |
+| 八、河流信息与水位工具 | 11 |
 | 九、社区与论坛 | 7 |
-| **合计** | **156** |
+| **合计** | **158** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
