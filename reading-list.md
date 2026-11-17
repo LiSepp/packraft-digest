@@ -31,6 +31,8 @@
 - [Paddling Magazine：怎样逃出回流（hydraulic）](https://paddlingmag.com/skills/safety-rescue-skills/how-to-escape-hydraulic/) 🧪 — 被回流（洗衣机）困住时该怎么做，顺带讲了回流的结构。
 - [Paddling Magazine：救生衣认证有多狠（Life Jacket Testing）](https://paddlingmag.com/gear/pfds/life-jacket-testing/) 🧪 — Salus 工厂见闻：侧带吊 350 磅、浸水 24 小时、明火烧两秒、真人 freeboard；解释认证浮力为什么贵、为什么别买山寨浮力背心。
 - [Paddling Magazine：河流桨板别用踝绳（Oregon leash 事故）](https://paddlingmag.com/stories/news-events/paddleboard-leash-accident-oregon/) ⚠️ — Willamette 河踝绳缠倒木溺亡；平水可戴绳、动水要快脱（挂 PFD）或干脆不戴。对 packraft/激流也适用：**水上任何绳子都是缠绕隐患**。
+- [APA：Is It Safe to Use a Leash Packrafting?（packraft 上要不要用船绳／桨绳）](https://packraft.org/post/is-it-safe-to-use-a-leash-packrafting) 🧪⚠️ — 2025-10-23。动水不要把人与船／桨死系在一起：绳子会挂石头和木头；Type V 救援衣快脱腰带在侧向受力时往往脱不干净。Luc Mehl 写过船绳缠绕参与过多起 packraft 死亡事故。开阔水面大风横渡时，短的可快脱牛尾绳可能比船被吹走更值；近岸、有流、有浪处仍不建议。与上一条俄勒冈桨板踝绳事故、Seeka 并船拖带连读。协会讨论稿，不是强制规范。
+
 - [TGO Magazine：瑞典 Piteälven 河 10 天 packraft 远征](https://www.thegreatoutdoorsmag.com/long-reads/packrafting-pitealven-swedish-lapland/) 🧪 — 多日远征的真实节奏：逐滩侦察、把急流拆段定计划、扛船绕行；结尾是作者没侦察就冲“简单二级”翻船的教训，以及满载后船性会变。
 
 - [ClearGauge：Cold Water Shock & Hypothermia（1-10-1 规则）](https://www.cleargaugerivers.com/learn/cold-water-shock-hypothermia-river-safety) 🧪⚠️ — 冷水冲击比失温更先致命（约 15°C 以下即可触发）：第 1 分钟保气道仰浮、约 10 分钟抓紧自救、约 1 小时才进临床失温；Rule of 120／干衣建议；教学归纳，非实测。
@@ -50,6 +52,8 @@
 
 - [Seeka Touring：Towing and rafting up（并船与拖带）](https://seekatouring.com/field-notes/towing-and-rafting-up) 🧪⚠️ — 并船抓把手成稳定平台；侧风先想下风漂移；接触拖／带快脱的拖绳；动水优先靠岸；绳子勿死结自身。平水结伴教案，与 self-rescue／wind 连读。
 - [Seeka Touring：Packraft safety basics（安全底线）](https://seekatouring.com/field-notes/packraft-safety-basics) ⚠️ — PFD 必穿扣好；冷水冲击秒级；行程报备；陌生水勿独划；风／涨水敢扛船。缓流出发前检查表。
+- [Seeka Touring：When to wear a helmet packrafting（什么时候该戴头盔）](https://seekatouring.com/field-notes/packraft-helmets) 🧪⚠️ — packraft 坐得低，浅砾石滩落水时头离河床只有几厘米；有石头、木头，或牵船／涉水的河段建议戴划船头盔（文中提 EN 1385）。自行车头盔会吸水、通风孔大，不能代替。岸上先决定，并管整段河。厂商缓流教学，不是强制标准。
+
 - [r/whitewater：How to correctly run a tow tether（救援腰带／牛尾拖绳的穿法争论）](https://www.reddit.com/r/whitewater/comments/1xuc5c3/how_to_correctly_run_a_tow_tether_when_kayaking/) ⚠️ — 贴主是视频（未看）；评论里多位向导争论快脱扣要不要穿过三档扣（tri-glide）：绕过更容易脱、穿过更适合「活饵」救援；共识是**多余织带剪短到扣外约 3 cm、定期带载练习脱离**。另有人主张用吊带握在桨上拖船、或干脆少用拖绳以免缠绕。与 Seeka 并船拖带连读。
 
 ## 三、课程与学校
@@ -218,7 +222,7 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 25 |
+| 二、安全与救援 | 27 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
@@ -226,6 +230,6 @@
 | 七、装备评测与知识 | 36 |
 | 八、河流信息与水位工具 | 11 |
 | 九、社区与论坛 | 7 |
-| **合计** | **158** |
+| **合计** | **160** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
