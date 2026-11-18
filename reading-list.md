@@ -54,6 +54,7 @@
 - [Seeka Touring：Packraft safety basics（安全底线）](https://seekatouring.com/field-notes/packraft-safety-basics) ⚠️ — PFD 必穿扣好；冷水冲击秒级；行程报备；陌生水勿独划；风／涨水敢扛船。缓流出发前检查表。
 - [Seeka Touring：When to wear a helmet packrafting（什么时候该戴头盔）](https://seekatouring.com/field-notes/packraft-helmets) 🧪⚠️ — packraft 坐得低，浅砾石滩落水时头离河床只有几厘米；有石头、木头，或牵船／涉水的河段建议戴划船头盔（文中提 EN 1385）。自行车头盔会吸水、通风孔大，不能代替。岸上先决定，并管整段河。厂商缓流教学，不是强制标准。
 
+- [Seeka Touring：Paddling in a group（结伴怎么划）](https://seekatouring.com/field-notes/group-packraft-trips) 🧪⚠️ — 按最弱者选水；领队／扫尾／中间，领队不被超、扫尾后不许有人；转弯回头看后船，看不见就进洄水等；桨信号与哨音；每次停靠报人数；结对；任何人可要求改旱路。缓流结伴教案，可与并船拖带对照。厂商教学，不是强制规范。
 - [r/whitewater：How to correctly run a tow tether（救援腰带／牛尾拖绳的穿法争论）](https://www.reddit.com/r/whitewater/comments/1xuc5c3/how_to_correctly_run_a_tow_tether_when_kayaking/) ⚠️ — 贴主是视频（未看）；评论里多位向导争论快脱扣要不要穿过三档扣（tri-glide）：绕过更容易脱、穿过更适合「活饵」救援；共识是**多余织带剪短到扣外约 3 cm、定期带载练习脱离**。另有人主张用吊带握在桨上拖船、或干脆少用拖绳以免缠绕。与 Seeka 并船拖带连读。
 
 ## 三、课程与学校
@@ -190,6 +191,8 @@
 - [GearJunkie：Alpacka Mage 长评](https://gearjunkie.com/boats-water/alpacka-raft-mage-review) 🧪 — 充气下沉底板＋舭角换来二次稳性和压边能力，代价是初稳性低、浅水刮底易侧翻；平底船的对照案例。
 - [The Radavist：Alpacka Chinook 平水 packraft 评测（Spencer Harding）](https://theradavist.com/alpacka-raft-chinook-review) 🧪 — 长船体＋可拆艉鳍对付传统短 packraft 的两个痛点：停桨容易原地掉头约 180°，以及高干舷在顶风里像帆。评测者在约 16–24 km/h（10–15 mph）顶风里觉得航向只偏几度；随意划约 4–4.8 km/h，加力约 6.4 km/h。代价是没有脚撑、大腿带不好发力、Cargo Fly 拉链偏左、喷裙在烈日下闷热；约 4.1 kg、1700 美元。个人体验，不是测阻力。可与 Mage 长评对照：一条走平水循迹，一条走白水二次稳性。
 
+- [Seeka Touring：Footwear for packrafting（鞋怎么选）](https://seekatouring.com/field-notes/packraft-footwear) — 要能排水、不掉、抓湿岩、护趾、还能走路；防水靴一旦漫过靴口就把水关在里面。多数行程用透气越野跑鞋；冷水在排水鞋里加氯丁袜（先按加袜后的尺码试）。软橡胶底对船体友好，钉齿／毡底不要穿上船。厂商教学。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
@@ -222,14 +225,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 27 |
+| 二、安全与救援 | 28 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 41 |
-| 七、装备评测与知识 | 36 |
+| 七、装备评测与知识 | 37 |
 | 八、河流信息与水位工具 | 11 |
 | 九、社区与论坛 | 7 |
-| **合计** | **160** |
+| **合计** | **162** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
