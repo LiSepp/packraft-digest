@@ -57,6 +57,10 @@
 - [Seeka Touring：Paddling in a group（结伴怎么划）](https://seekatouring.com/field-notes/group-packraft-trips) 🧪⚠️ — 按最弱者选水；领队／扫尾／中间，领队不被超、扫尾后不许有人；转弯回头看后船，看不见就进洄水等；桨信号与哨音；每次停靠报人数；结对；任何人可要求改旱路。缓流结伴教案，可与并船拖带对照。厂商教学，不是强制规范。
 - [r/whitewater：How to correctly run a tow tether（救援腰带／牛尾拖绳的穿法争论）](https://www.reddit.com/r/whitewater/comments/1xuc5c3/how_to_correctly_run_a_tow_tether_when_kayaking/) ⚠️ — 贴主是视频（未看）；评论里多位向导争论快脱扣要不要穿过三档扣（tri-glide）：绕过更容易脱、穿过更适合「活饵」救援；共识是**多余织带剪短到扣外约 3 cm、定期带载练习脱离**。另有人主张用吊带握在桨上拖船、或干脆少用拖绳以免缠绕。与 Seeka 并船拖带连读。
 
+- [American Whitewater：Cheakamus River Kayak Death（2026-11-15，报告 ID 88230）](https://www.americanwhitewater.org/accident/cheakamus-river-kayak-death/) 🧪⚠️ — Dam Run 河段收船处；条目记为 III 级、Flush Drowning。简述称 Lucia Beláková 与 8 人队伍同行，在收船处一个必须进的洄水翻船，被冲进下游更难的浪。短建档，不是调查结论；1.2 feet 是未标明哪座站的水位高度，不是水深。非 packraft。
+- [Paddling Magazine：Kanawha Falls 掏空岩绳救后续（2026-11-17）](https://paddlingmag.com/stories/news-events/ropes-rescue-saves-kayaker-kanawha-falls/) ⚠️ — 11-01 救援的后续专稿：同伴在已知掏空裂缝放下绳子仍拉不上来；落水者穿短裤和半干衣，在水中约 1 小时、中度失温。文中对照 2020 年几乎同一处独划被困约 8 小时。新闻转述，不是救援教材。
+- [Seeka Touring：Packrafting solo（独划怎么准备）](https://seekatouring.com/field-notes/solo-packrafting) 🧪⚠️ — 只选已经结伴走过、或明显更容易的水；沿途要能上岸。把出入水点、路线、车辆、船体颜色、回报时间和超时该通知谁交给可靠的人；改线先告知。偏远行程把 PLB／卫星通讯戴在救生衣上，不要放在船头包里。动水落水几乎总是先上岸；没有把握就搬船。厂商缓流教学，不是白水独划手册。
+
 ## 三、课程与学校
 
 - [APA Packraft 课程大纲（Level 1–3，PDF）](https://www.packraft.org/pages/education/packrafting-curriculum) 🔁 — packraft 专用的分级课程框架，可以拿来当自学检查表。
@@ -225,7 +229,7 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 28 |
+| 二、安全与救援 | 31 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
@@ -233,6 +237,6 @@
 | 七、装备评测与知识 | 37 |
 | 八、河流信息与水位工具 | 11 |
 | 九、社区与论坛 | 7 |
-| **合计** | **162** |
+| **合计** | **165** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
