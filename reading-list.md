@@ -136,6 +136,7 @@
 - [ClearGauge：Low Water Paddling（低水读 V／微摆渡／刮底勿向上游倾）](https://www.cleargaugerivers.com/learn/paddling-low-water-hazards) 🧪 — 顺流 V 深槽、逆流 V 躲石；搁浅略向下游倾；石阵后摆渡对齐下一槽。
 - [ClearGauge：Drift Boat vs. Raft Flow Clearance（硬底漂船／充气筏吃水与低水空隙）](https://www.cleargaugerivers.com/learn/drift-boat-vs-raft-minimum-flow-clearance) 🧪 — 吃水分空船、满载和往后倒划时的艉部下沉（stern dip）。文中教学数字：16 英尺玻璃钢漂船满载约 7–9 英寸、倒划时约 10–12 英寸；14 英尺带架自排水筏满载约 4–5 英寸。同一 CFS 在窄峡谷可以很深，铺到宽浅分汊可能只剩几英寸；低水走顺流 V、躲逆流 V，弯道外侧深、内侧浅滩。北美具体河的 CFS 分档不可套 Mini Shark。与 CFS ≠ 水深、低水读 V 连读。教学归纳，非实测吃水表。
 - [Seeka Touring：Lining and wading（牵绳拖船／涉水）](https://seekatouring.com/field-notes/lining-and-wading-a-packraft) 🧪⚠️ — 浅槽碎石可船头牵绳 lining 或涉水拖，堰／木堆仍绕行；可松手让船漂、勿因抓绳失足；人在上游侧、船在下游侧；动水不过膝防夹脚；选弯道内侧。与 Portaging、ClearGauge 低水文连读。
+- [ClearGauge：Safe Wading（涉水「10 法则」：水深 × 流速）](https://www.cleargaugerivers.com/learn/wading-safety-trout-streams-cfs-depth) 🧪⚠️ — 英制经验法则：水深（英尺）× 流速（英尺/秒）< 10，未受协助的成人才大致可涉；达到或超过 10 不要走。约合水深（米）× 流速（米/秒）< 0.93。口诀：水过膝且比对岸散步更快就不要过。落水仰卧、脚朝下游，急流中不要站起来（防夹脚）。涉水裤进水不会因密度把人沉下去，但会增加质量和阻力；腰带把空气留在腰部以上。钓鱼向教学文，不是个人安全界限。与 Seeka 牵绳／涉水文连读。
 
 - [Seeka Touring：Reading a river for packrafters（读河入门）](https://seekatouring.com/field-notes/reading-a-river-for-packrafters) 🧪 — 弯道外深内浅、顺流 V／逆流 V、洄水线要 commit、滤网比浪更常见；地平线先侦察。缓流入门，非白水课。
 - [ClearGauge：How Heavy Rain Affects River Flow（雨后滞后效应）](https://www.cleargaugerivers.com/learn/how-rain-affects-river-flow) 🧪⚠️ — Lag Effect：大流域洪峰可在雨停后 24–72 小时；闪洪型 vs 慢河；浊度藏障碍。
@@ -198,6 +199,7 @@
 - [The Radavist：Alpacka Chinook 平水 packraft 评测（Spencer Harding）](https://theradavist.com/alpacka-raft-chinook-review) 🧪 — 长船体＋可拆艉鳍对付传统短 packraft 的两个痛点：停桨容易原地掉头约 180°，以及高干舷在顶风里像帆。评测者在约 16–24 km/h（10–15 mph）顶风里觉得航向只偏几度；随意划约 4–4.8 km/h，加力约 6.4 km/h。代价是没有脚撑、大腿带不好发力、Cargo Fly 拉链偏左、喷裙在烈日下闷热；约 4.1 kg、1700 美元。个人体验，不是测阻力。可与 Mage 长评对照：一条走平水循迹，一条走白水二次稳性。
 
 - [Seeka Touring：Footwear for packrafting（鞋怎么选）](https://seekatouring.com/field-notes/packraft-footwear) — 要能排水、不掉、抓湿岩、护趾、还能走路；防水靴一旦漫过靴口就把水关在里面。多数行程用透气越野跑鞋；冷水在排水鞋里加氯丁袜（先按加袜后的尺码试）。软橡胶底对船体友好，钉齿／毡底不要穿上船。厂商教学。
+- [Seeka Touring：Packraft paddles（桨：四节、偏长、旅叶）](https://seekatouring.com/field-notes/packraft-paddle-guide) — 四节才能和卷好的船一起走；接头要锁死并保住羽毛角。packraft 更宽、坐得更高，桨宜比海艇偏长；文中 Seeka 规格是 220–230 cm，不是通用测得值。白水用短宽叶，旅行多用更长更窄的旅叶。玻璃钢更耐磕，碳纤更轻但尖角撞击可能裂。厂商教学。
 
 ## 八、河流信息与水位工具
 
@@ -210,6 +212,7 @@
 - [ClearGauge：Selecting the Right River Flow（按流量选河）](https://www.cleargaugerivers.com/learn/kayak-flow-rate-selection) 🧪 — 同一段级别随 CFS 改写；低水技术／中水甜点／高水推人；文中点名 packraft 耐造适合低水练习。教学归纳。
 - [ClearGauge：Understanding River Gage Datum（水位基准）](https://www.cleargaugerivers.com/learn/understanding-river-gage-datum) 🧪 — stage ≠ 水深；零点故意低于预期最低水位；负水位≠河干；叠 rating curve。与 CFS／水文图连读。
 - [Seeka Touring：River gauges explained（水位站：两个数字和一条趋势线）](https://seekatouring.com/field-notes/river-gauges-explained) 🧪 — 水位高度相对该站零点，不是水深，也不能跨河比较；流量由 rating curve 换算，洪水改河床后可能失效。先看近几日趋势（走平／回落／上升／尖峰），再看当前值；核对上游站、支流和闸坝放水；自己记下每次的读数与河感当参照。门户写的是澳新机构，国内改看水利部，方法相同。与 Gage Datum、CFS、水文图连读。
+- [ClearGauge：How USGS Measures Streamflow（水位连续测，CFS 由率定曲线换算）](https://www.cleargaugerivers.com/learn/how-usgs-measures-streamflow-acoustic-doppler) 🧪 — 站通常不连续测全断面流速；先测 stage（静水井／气泡压力管／非接触雷达），再用该站自己的水位—流量率定曲线算出 CFS。曲线靠多次实地测量拟合，现多用 ADCP（多普勒分层测速）。洪水冲刷或淤积后，同一水位可能对应不同流量，曲线要做偏移订正。文中 ±2% 等数字是教学说法。美国 USGS／GOES 语境，国内改看水利部，方法可借鉴。与 CFS、Gage Datum、Seeka 水位站连读。
 - [ClearGauge：How to Estimate River Flow on Ungauged Streams（无水位站时估流量）](https://www.cleargaugerivers.com/learn/how-to-estimate-flow-ungauged-rivers) 🧪 — 排水面积比：相似、无闸的流域里，目标流量 ≈ 参照站流量 ×（目标面积 ÷ 参照面积）。限制：雨影／高程、地质渗透、闸控尾水不能当参照。到现场看苔藓线、晒白石头、砾石滩和桥墩／树杈漂屑，并看参照站水文图走势。美国可用 StreamStats；国内改看水利部等本地资料，方法可借鉴，数字不能照搬。教学文，不是预报。
 - [RiverApp](https://www.riverapp.net/en) — 全球河段与水位 App（以欧洲为主），packraft 和激流玩家常用。
 - [rivermap](https://rivermap.org/map/) — 欧洲河流地图 + 实时水位，地图界面直观。
@@ -236,10 +239,10 @@
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 43 |
-| 七、装备评测与知识 | 37 |
-| 八、河流信息与水位工具 | 12 |
+| 六、读水与水流力学 / 物理 | 44 |
+| 七、装备评测与知识 | 38 |
+| 八、河流信息与水位工具 | 13 |
 | 九、社区与论坛 | 7 |
-| **合计** | **168** |
+| **合计** | **171** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
