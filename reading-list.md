@@ -60,6 +60,7 @@
 - [American Whitewater：Cheakamus River Kayak Death（2026-11-15，报告 ID 88230）](https://www.americanwhitewater.org/accident/cheakamus-river-kayak-death/) 🧪⚠️ — Dam Run 河段收船处；条目记为 III 级、Flush Drowning。简述称 Lucia Beláková 与 8 人队伍同行，在收船处一个必须进的洄水翻船，被冲进下游更难的浪。短建档，不是调查结论；1.2 feet 是未标明哪座站的水位高度，不是水深。非 packraft。
 - [Paddling Magazine：Kanawha Falls 掏空岩绳救后续（2026-11-17）](https://paddlingmag.com/stories/news-events/ropes-rescue-saves-kayaker-kanawha-falls/) ⚠️ — 11-01 救援的后续专稿：同伴在已知掏空裂缝放下绳子仍拉不上来；落水者穿短裤和半干衣，在水中约 1 小时、中度失温。文中对照 2020 年几乎同一处独划被困约 8 小时。新闻转述，不是救援教材。
 - [Seeka Touring：Packrafting solo（独划怎么准备）](https://seekatouring.com/field-notes/solo-packrafting) 🧪⚠️ — 只选已经结伴走过、或明显更容易的水；沿途要能上岸。把出入水点、路线、车辆、船体颜色、回报时间和超时该通知谁交给可靠的人；改线先告知。偏远行程把 PLB／卫星通讯戴在救生衣上，不要放在船头包里。动水落水几乎总是先上岸；没有把握就搬船。厂商缓流教学，不是白水独划手册。
+- [Seeka Touring：Leaving trip intentions（行程报备：预计时间与报警时间）](https://seekatouring.com/field-notes/trip-intentions) ⚠️ — 交给留守的人一份能让陌生人找到你的书面计划。关键是两个时间：预计回来（expected time）和超时就报警（alarm time）；后者是指令，到点未见回报就通知应急部门，不要再多打几通电话观望。写清人员、起终点与停车、车辆、路线与备选撤离、船体／救生衣颜色、通讯器材，并附图。山屋登记本不能代替这份计划；改线有信号先告知，出来第一件事是报平安。厂商教学，紧急电话写的是澳新号码，国内改打本地应急电话。
 
 ## 三、课程与学校
 
@@ -139,6 +140,7 @@
 - [ClearGauge：Safe Wading（涉水「10 法则」：水深 × 流速）](https://www.cleargaugerivers.com/learn/wading-safety-trout-streams-cfs-depth) 🧪⚠️ — 英制经验法则：水深（英尺）× 流速（英尺/秒）< 10，未受协助的成人才大致可涉；达到或超过 10 不要走。约合水深（米）× 流速（米/秒）< 0.93。口诀：水过膝且比对岸散步更快就不要过。落水仰卧、脚朝下游，急流中不要站起来（防夹脚）。涉水裤进水不会因密度把人沉下去，但会增加质量和阻力；腰带把空气留在腰部以上。钓鱼向教学文，不是个人安全界限。与 Seeka 牵绳／涉水文连读。
 
 - [Seeka Touring：Reading a river for packrafters（读河入门）](https://seekatouring.com/field-notes/reading-a-river-for-packrafters) 🧪 — 弯道外深内浅、顺流 V／逆流 V、洄水线要 commit、滤网比浪更常见；地平线先侦察。缓流入门，非白水课。
+- [Seeka Touring：Flat water vs moving water（平水与动水）](https://seekatouring.com/field-notes/flat-water-vs-moving-water) 🧪 — 平水（湖、库、避风湾、缓流深潭）放下桨只随风漂；动水无论划不划都把你带向下游。河口看起来是平水，窄处潮汐可能很快，要按潮汐表来。对照表：动力是风 vs 一直存在的流；停下是停桨 vs 进洄水或上岸；回来是原路划回 vs 几乎不能逆流、要搬船或接驳。动水最要紧的常见危险是滤网；级别随水位改写，大雨后的「缓流河」不是原来那条河。先在平水把直线、转向、再入艇练熟，再上缓流，有人带着练洄水和摆渡。厂商缓流教学，不是白水课。
 - [ClearGauge：How Heavy Rain Affects River Flow（雨后滞后效应）](https://www.cleargaugerivers.com/learn/how-rain-affects-river-flow) 🧪⚠️ — Lag Effect：大流域洪峰可在雨停后 24–72 小时；闪洪型 vs 慢河；浊度藏障碍。
 - [ClearGauge：QPF／雷达预判涨水](https://www.cleargaugerivers.com/learn/weather-radar-streamflow-forecasting) 🧪 — 定量降水英寸阈值、前期土壤湿度（API）、紧凑 vs 狭长流域滞时；出行前看上游雨核而非等针跳。
 - [ClearGauge：Understanding Whitewater Class I–VI](https://www.cleargaugerivers.com/learn/understanding-whitewater-classes) 🧪 — 国际分级口语化说明；强调 CFS／河形会改写同一级别的实际后果。
@@ -166,6 +168,7 @@
 - [Bikepackers Foundry：Bikerafting 讲座存档（PDF）](https://bikepackersfoundry.com/wp-content/uploads/2023/03/Bikerafting-presentation-archive-Bow-Waters-Canoe-Club-March-1-2023.pdf) 🧪 — 一份真实的满载 packraft 质量分布：前三分之一约 11%、后三分之一约 9%、中间约 80%（含浆手），每件装备的重量和位置都列了，可作配平示意的参考例子（单人单例）。
 
 - [Seeka Touring：Self-bail vs decked（自排水 vs 喷裙船）](https://seekatouring.com/field-notes/self-bail-vs-decked) 🧪 — 排水孔座位更湿但溅水即排；喷裙船更干但进水需倒空；冷水仍按水温穿。船体排水哲学对照，非 Mini Shark 实测。
+- [Seeka Touring：Spray decks explained（喷裙／甲板怎么工作）](https://seekatouring.com/field-notes/packraft-spray-decks-explained) 🧪 — 甲板、座舱（可能有座舱缘）和围裙三部分。旅行甲板偏挡雨保温、围裙较松；白水甲板围裙箍紧座舱缘，要有解脱环，才能在浪里尽量保持船内无水并做翻滚。进了水会留在船里，要上岸倒空；密封围裙的湿出舱要先在温水平水课里练。自排水是相反思路：敞舱加排水孔，溅水即排、上下船快。Seeka 不产喷裙，甲板要按具体船体来配。厂商对照，非 Mini Shark 改装建议。
 
 - [Seeka Touring：vs Alpacka／MRS／Kokopelli（品牌对照）](https://seekatouring.com/field-notes/seeka-vs-alpacka-mrs-kokopelli) 🧪 — 先按要划的水选船：自排水缓流看 Seeka／Nirvana SB，喷裙巡航看 Expedition／MRS Microraft；表内另列 Viking SB／Gnarwhal。厂商对照，非 Mini Shark 实测。
 - [Seeka Touring：Packraft fabrics and floors（面料与地板）](https://seekatouring.com/field-notes/packraft-materials-explained) 🧪 — TPU 涂层尼龙主流；丹尼只量纱线；管体轻／地板重的常见分工；焊接 vs 胶粘。材料科普。
@@ -235,14 +238,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 31 |
+| 二、安全与救援 | 32 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 44 |
-| 七、装备评测与知识 | 38 |
+| 六、读水与水流力学 / 物理 | 45 |
+| 七、装备评测与知识 | 39 |
 | 八、河流信息与水位工具 | 13 |
 | 九、社区与论坛 | 7 |
-| **合计** | **171** |
+| **合计** | **174** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
