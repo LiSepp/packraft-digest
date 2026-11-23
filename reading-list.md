@@ -30,6 +30,7 @@
 - [《River Rescue: A Manual for Whitewater Safety》第 4 版](https://www.nrs.com/river-rescue-4th-edition-book/pu3d) — Les Bechdel 与 Slim Ray 的经典急流救援手册。[AW 关于它再版的文章](https://www.americanwhitewater.org/article/30371/)。
 - [Paddling Magazine：怎样逃出回流（hydraulic）](https://paddlingmag.com/skills/safety-rescue-skills/how-to-escape-hydraulic/) 🧪 — 被回流（洗衣机）困住时该怎么做，顺带讲了回流的结构。
 - [Paddling Magazine：救生衣认证有多狠（Life Jacket Testing）](https://paddlingmag.com/gear/pfds/life-jacket-testing/) 🧪 — Salus 工厂见闻：侧带吊 350 磅、浸水 24 小时、明火烧两秒、真人 freeboard；解释认证浮力为什么贵、为什么别买山寨浮力背心。
+- [Seeka Touring：Buoyancy vests for packrafting（救生衣／浮力背心）](https://seekatouring.com/field-notes/buoyancy-vest-for-packrafting) ⚠️ — 在车上就穿上，背船下岸前不要脱。岸上做合身检查：扣好后向上提肩带，滑过下巴就是太大或太松；再坐下做划桨动作，看会不会磨胳膊或顶肋骨。划船背心腰线短、袖窿大，适应 packraft 坐得低、转体多。哨子夹在衣服上。认证写的是澳大利亚 AS 4758（Level 50／50S 多用于有救援的遮蔽水域），国内改看本地海事／航道规定，不要照抄。不要把救生衣当坐垫。与安全底线、Paddling Mag 救生衣认证连读。
 - [Paddling Magazine：河流桨板别用踝绳（Oregon leash 事故）](https://paddlingmag.com/stories/news-events/paddleboard-leash-accident-oregon/) ⚠️ — Willamette 河踝绳缠倒木溺亡；平水可戴绳、动水要快脱（挂 PFD）或干脆不戴。对 packraft/激流也适用：**水上任何绳子都是缠绕隐患**。
 - [APA：Is It Safe to Use a Leash Packrafting?（packraft 上要不要用船绳／桨绳）](https://packraft.org/post/is-it-safe-to-use-a-leash-packrafting) 🧪⚠️ — 2025-10-23。动水不要把人与船／桨死系在一起：绳子会挂石头和木头；Type V 救援衣快脱腰带在侧向受力时往往脱不干净。Luc Mehl 写过船绳缠绕参与过多起 packraft 死亡事故。开阔水面大风横渡时，短的可快脱牛尾绳可能比船被吹走更值；近岸、有流、有浪处仍不建议。与上一条俄勒冈桨板踝绳事故、Seeka 并船拖带连读。协会讨论稿，不是强制规范。
 
@@ -61,6 +62,7 @@
 - [Paddling Magazine：Kanawha Falls 掏空岩绳救后续（2026-11-17）](https://paddlingmag.com/stories/news-events/ropes-rescue-saves-kayaker-kanawha-falls/) ⚠️ — 11-01 救援的后续专稿：同伴在已知掏空裂缝放下绳子仍拉不上来；落水者穿短裤和半干衣，在水中约 1 小时、中度失温。文中对照 2020 年几乎同一处独划被困约 8 小时。新闻转述，不是救援教材。
 - [Seeka Touring：Packrafting solo（独划怎么准备）](https://seekatouring.com/field-notes/solo-packrafting) 🧪⚠️ — 只选已经结伴走过、或明显更容易的水；沿途要能上岸。把出入水点、路线、车辆、船体颜色、回报时间和超时该通知谁交给可靠的人；改线先告知。偏远行程把 PLB／卫星通讯戴在救生衣上，不要放在船头包里。动水落水几乎总是先上岸；没有把握就搬船。厂商缓流教学，不是白水独划手册。
 - [Seeka Touring：Leaving trip intentions（行程报备：预计时间与报警时间）](https://seekatouring.com/field-notes/trip-intentions) ⚠️ — 交给留守的人一份能让陌生人找到你的书面计划。关键是两个时间：预计回来（expected time）和超时就报警（alarm time）；后者是指令，到点未见回报就通知应急部门，不要再多打几通电话观望。写清人员、起终点与停车、车辆、路线与备选撤离、船体／救生衣颜色、通讯器材，并附图。山屋登记本不能代替这份计划；改线有信号先告知，出来第一件事是报平安。厂商教学，紧急电话写的是澳新号码，国内改打本地应急电话。
+- [Seeka Touring：Navigation and maps（导航与地图）](https://seekatouring.com/field-notes/packraft-navigation-and-maps) — 坐得低，岸上地标从水上更难看清；沿河道量距离，不要按直线；出发前标好出入水、中途撤离、用于对位的支流／桥／电线，以及已知的堰和峡谷。收船点最容易错过：下水前先从岸上看，记下上游参照；若已经漂过，在第一个安全处上岸，沿公共岸往回走，不要继续往未知下游赌出口。手机离线地形图为主、防水纸图为备份；信标不是地图。河口要把潮汐表算进导航。与行程报备、接驳物流连读。厂商缓流教学，澳新地图和潮汐来源国内要换本地资料。
 
 ## 三、课程与学校
 
@@ -192,6 +194,7 @@
 - [Seeka Touring：Flying with a packraft（托运登机）](https://seekatouring.com/field-notes/flying-with-a-packraft) — 泄气紧卷衣物包裹、桨叶防磨；目的地气袋充；CO₂／锂电池电泵／燃料先查航司危险品；出入境洗干申报。
 - [Seeka Touring：River shuttle logistics（河段接驳）](https://seekatouring.com/field-notes/river-shuttle-logistics) — 四种回程：两车接驳／单车接驳／走回上游／环线；出口车钥匙进船内干袋；出发前确认出口从水上认得出；湖上先顶风、潮汐水域让回程顺潮。与 Packrafting without a car 连读。
 - [Seeka Touring：Packrafting without a car（无车划船）](https://seekatouring.com/field-notes/packrafting-without-a-car) — 先看时刻表再看地图：找沿河两站一段河；末班车倒推划行时间；确认上下水点的合法通道；折叠单车接驳先查运营方规定。
+- [Seeka Touring：Planning a hike-and-float loop（徒步＋漂流环线）](https://seekatouring.com/field-notes/hike-and-float-loops) — 沿谷走上、充气漂回出发点：一辆车、不用接驳。先确认出入水是合法公共通道、这段水在预期水位下自己和船都对付得了、中途能上岸。两段都按可能多用一倍时间、仍能在天黑前结束来留余量；更累的一段（通常是走）放前面。转换要练成流程；水位不对就沿路走出来。与背船、接驳、行程报备连读。厂商缓流环线教案，不是 Mini Shark 白水手册。
 
 - [Seeka Touring：Packraft care and storage（养护与存放）](https://seekatouring.com/field-notes/packraft-care-and-storage) 🧪 — 淡水冲含排水孔；阀门开晾；咸水当天冲；松卷换折痕；忌湿收／热车／拖岩／烈日充气暴晒；行前充气保压摸缝。与 repair kit／how to pack 连读。
 
