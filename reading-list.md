@@ -59,6 +59,7 @@
 - [r/whitewater：How to correctly run a tow tether（救援腰带／牛尾拖绳的穿法争论）](https://www.reddit.com/r/whitewater/comments/1xuc5c3/how_to_correctly_run_a_tow_tether_when_kayaking/) ⚠️ — 贴主是视频（未看）；评论里多位向导争论快脱扣要不要穿过三档扣（tri-glide）：绕过更容易脱、穿过更适合「活饵」救援；共识是**多余织带剪短到扣外约 3 cm、定期带载练习脱离**。另有人主张用吊带握在桨上拖船、或干脆少用拖绳以免缠绕。与 Seeka 并船拖带连读。
 
 - [American Whitewater：Cheakamus River Kayak Death（2026-11-15，报告 ID 88230）](https://www.americanwhitewater.org/accident/cheakamus-river-kayak-death/) 🧪⚠️ — Dam Run 河段收船处；条目记为 III 级、Flush Drowning。简述称 Lucia Beláková 与 8 人队伍同行，在收船处一个必须进的洄水翻船，被冲进下游更难的浪。短建档，不是调查结论；1.2 feet 是未标明哪座站的水位高度，不是水深。非 packraft。
+- [American Whitewater：Horsethief Creek Death（2026-07-04，报告 ID 87320）](https://www.americanwhitewater.org/accident/horsethief-canyon-death/) 🧪⚠️ — 加拿大 BC 省 Columbia Valley 的 Horsethief Creek。条目记 III+、水位 High、船型 Packraft，原因标签为 Flush Drowning 与 Pinned in Boat against Rock or Sieve。正文是同伴 Mark Long 发在 Facebook 的叙述（非调查结论）：三人一行，叙述者皮划艇、另两人 packraft；Jeff Knievel（43 岁）在一段很长的 III 级连续急流中段落水，施救受阻，被冲约 3 km，力竭后无法配合，在刚没过水面的中流岩石上被困，未能生还。叙述称他后来失去对 packraft 的抓握，短暂抓过叙述者艉部抓环后松手，当时处于自救姿势但已无力；第三人同样落水，自行上岸徒步离开。河段约 7–8 km 连续 III 级，岸边洄水很少、岸陡；弯道有木头，但叙述称这次木头不是因素。标签与正文不完全对应，不要读成「人被困在船里」。1.2 feet 是未标明哪座站的水位高度，不是水深。页面 og:updated_time 为 2026-08-19，不是新事故；此前精选只看了事故库首页所以漏收。
 - [Paddling Magazine：Kanawha Falls 掏空岩绳救后续（2026-11-17）](https://paddlingmag.com/stories/news-events/ropes-rescue-saves-kayaker-kanawha-falls/) ⚠️ — 11-01 救援的后续专稿：同伴在已知掏空裂缝放下绳子仍拉不上来；落水者穿短裤和半干衣，在水中约 1 小时、中度失温。文中对照 2020 年几乎同一处独划被困约 8 小时。新闻转述，不是救援教材。
 - [Seeka Touring：Packrafting solo（独划怎么准备）](https://seekatouring.com/field-notes/solo-packrafting) 🧪⚠️ — 只选已经结伴走过、或明显更容易的水；沿途要能上岸。把出入水点、路线、车辆、船体颜色、回报时间和超时该通知谁交给可靠的人；改线先告知。偏远行程把 PLB／卫星通讯戴在救生衣上，不要放在船头包里。动水落水几乎总是先上岸；没有把握就搬船。厂商缓流教学，不是白水独划手册。
 - [Seeka Touring：Leaving trip intentions（行程报备：预计时间与报警时间）](https://seekatouring.com/field-notes/trip-intentions) ⚠️ — 交给留守的人一份能让陌生人找到你的书面计划。关键是两个时间：预计回来（expected time）和超时就报警（alarm time）；后者是指令，到点未见回报就通知应急部门，不要再多打几通电话观望。写清人员、起终点与停车、车辆、路线与备选撤离、船体／救生衣颜色、通讯器材，并附图。山屋登记本不能代替这份计划；改线有信号先告知，出来第一件事是报平安。厂商教学，紧急电话写的是澳新号码，国内改打本地应急电话。
@@ -241,14 +242,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 32 |
+| 二、安全与救援 | 35 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 45 |
-| 七、装备评测与知识 | 39 |
+| 七、装备评测与知识 | 40 |
 | 八、河流信息与水位工具 | 13 |
 | 九、社区与论坛 | 7 |
-| **合计** | **174** |
+| **合计** | **178** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
