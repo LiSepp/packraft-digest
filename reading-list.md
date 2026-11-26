@@ -60,6 +60,7 @@
 
 - [American Whitewater：Cheakamus River Kayak Death（2026-11-15，报告 ID 88230）](https://www.americanwhitewater.org/accident/cheakamus-river-kayak-death/) 🧪⚠️ — Dam Run 河段收船处；条目记为 III 级、Flush Drowning。简述称 Lucia Beláková 与 8 人队伍同行，在收船处一个必须进的洄水翻船，被冲进下游更难的浪。短建档，不是调查结论；1.2 feet 是未标明哪座站的水位高度，不是水深。非 packraft。
 - [American Whitewater：Horsethief Creek Death（2026-07-04，报告 ID 87320）](https://www.americanwhitewater.org/accident/horsethief-canyon-death/) 🧪⚠️ — 加拿大 BC 省 Columbia Valley 的 Horsethief Creek。条目记 III+、水位 High、船型 Packraft，原因标签为 Flush Drowning 与 Pinned in Boat against Rock or Sieve。正文是同伴 Mark Long 发在 Facebook 的叙述（非调查结论）：三人一行，叙述者皮划艇、另两人 packraft；Jeff Knievel（43 岁）在一段很长的 III 级连续急流中段落水，施救受阻，被冲约 3 km，力竭后无法配合，在刚没过水面的中流岩石上被困，未能生还。叙述称他后来失去对 packraft 的抓握，短暂抓过叙述者艉部抓环后松手，当时处于自救姿势但已无力；第三人同样落水，自行上岸徒步离开。河段约 7–8 km 连续 III 级，岸边洄水很少、岸陡；弯道有木头，但叙述称这次木头不是因素。标签与正文不完全对应，不要读成「人被困在船里」。1.2 feet 是未标明哪座站的水位高度，不是水深。页面 og:updated_time 为 2026-08-19，不是新事故；此前精选只看了事故库首页所以漏收。
+- [American Whitewater：Concussion at Oceana Falls（2026-11-22，报告 ID 88249）](https://www.americanwhitewater.org/accident/concussion-at-oceana-falls/) ⚠️ — 美国佐治亚州 Tallulah River 的 Oceana。条目水位 Medium，并给出 1.2 feet（未标明哪座站的水位高度，不是水深）；可见原因是 Impact/Trauma。正文主要转述 Nik White（Smith Mountain Rescue Training）的叙述，并附社交媒体引文，不是调查结论。叙述称一名私人筏（private rafter）在 Oceana 被撞击后失去意识；岸上与水上一起把人送到岸边，随后由 EMS 人员做检查，叙述称当时情况尚可。引文还写皮划艇手很快把头托出水面，并称当事人后来恢复并划完这条河——这是现场／社媒转述，不是医学结论。AW 河段页把 Oceana 写在 Tallulah Gorge 的 IV–V 级河段上，并提到滑槽中段「the thing」有撞船（piton）风险，那是河段说明，不是这次走线的结论。11-24 早间精选时事故库首页尚未列出这条。非 packraft，不能套 Mini Shark。
 - [Paddling Magazine：Kanawha Falls 掏空岩绳救后续（2026-11-17）](https://paddlingmag.com/stories/news-events/ropes-rescue-saves-kayaker-kanawha-falls/) ⚠️ — 11-01 救援的后续专稿：同伴在已知掏空裂缝放下绳子仍拉不上来；落水者穿短裤和半干衣，在水中约 1 小时、中度失温。文中对照 2020 年几乎同一处独划被困约 8 小时。新闻转述，不是救援教材。
 - [Seeka Touring：Packrafting solo（独划怎么准备）](https://seekatouring.com/field-notes/solo-packrafting) 🧪⚠️ — 只选已经结伴走过、或明显更容易的水；沿途要能上岸。把出入水点、路线、车辆、船体颜色、回报时间和超时该通知谁交给可靠的人；改线先告知。偏远行程把 PLB／卫星通讯戴在救生衣上，不要放在船头包里。动水落水几乎总是先上岸；没有把握就搬船。厂商缓流教学，不是白水独划手册。
 - [Seeka Touring：Leaving trip intentions（行程报备：预计时间与报警时间）](https://seekatouring.com/field-notes/trip-intentions) ⚠️ — 交给留守的人一份能让陌生人找到你的书面计划。关键是两个时间：预计回来（expected time）和超时就报警（alarm time）；后者是指令，到点未见回报就通知应急部门，不要再多打几通电话观望。写清人员、起终点与停车、车辆、路线与备选撤离、船体／救生衣颜色、通讯器材，并附图。山屋登记本不能代替这份计划；改线有信号先告知，出来第一件事是报平安。厂商教学，紧急电话写的是澳新号码，国内改打本地应急电话。
@@ -208,6 +209,9 @@
 - [Seeka Touring：Footwear for packrafting（鞋怎么选）](https://seekatouring.com/field-notes/packraft-footwear) — 要能排水、不掉、抓湿岩、护趾、还能走路；防水靴一旦漫过靴口就把水关在里面。多数行程用透气越野跑鞋；冷水在排水鞋里加氯丁袜（先按加袜后的尺码试）。软橡胶底对船体友好，钉齿／毡底不要穿上船。厂商教学。
 - [Seeka Touring：Packraft paddles（桨：四节、偏长、旅叶）](https://seekatouring.com/field-notes/packraft-paddle-guide) — 四节才能和卷好的船一起走；接头要锁死并保住羽毛角。packraft 更宽、坐得更高，桨宜比海艇偏长；文中 Seeka 规格是 220–230 cm，不是通用测得值。白水用短宽叶，旅行多用更长更窄的旅叶。玻璃钢更耐磕，碳纤更轻但尖角撞击可能裂。厂商教学。
 
+- [Seeka Touring：Taking photos from a packraft（船上拍照）](https://seekatouring.com/field-notes/packraft-photography) 🎥 — 在洄水、深潭或沙洲再拍；接近急流、横渡或难弯之前先收相机，不要一边拍一边漂向需要动手的地方。先划到位置，桨横放腿上，让船漂过再拍。器材用短绳系住，长绳可能缠桨或在落水时缠人；下水前在水槽里空壳测试防水壳。行动相机可胸挂或固定在救生衣上；无人机从岸上起降，不要从船上放飞，也不要和桨抢同一双手。拍照时仍要穿着救生衣。厂商教学；文中无人机规则是澳新规定，国内要看本地规则，不要照抄。
+- [Seeka Touring：Getting fit for packrafting（为划船做体能准备）](https://seekatouring.com/field-notes/packrafting-fitness) — 分成走入、划桨、长天和游泳：负重徒步循序加量（一次只加重量或只加距离），划桨靠躯干旋转而不是靠手臂硬划，长天把走和划合练，并在安全水域穿着救生衣练习游泳和爬回船上。厂商缓流体能建议，不是训练计划，也不是 Mini Shark 白水课。
+
 ## 八、河流信息与水位工具
 
 - [水利部 全国水雨情信息](http://xxfb.mwr.cn/) 🇨🇳 — 国内官方实时水位/流量查询，可查重点河道站和水库站，出发前看海河水系水情就用它。（box 直连不稳，网页搜索可确认存在）
@@ -242,14 +246,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 35 |
+| 二、安全与救援 | 36 |
 | 三、课程与学校 | 5 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 45 |
-| 七、装备评测与知识 | 40 |
+| 七、装备评测与知识 | 42 |
 | 八、河流信息与水位工具 | 13 |
 | 九、社区与论坛 | 7 |
-| **合计** | **178** |
+| **合计** | **181** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
