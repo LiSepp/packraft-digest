@@ -65,6 +65,8 @@
 - [Seeka Touring：Packrafting solo（独划怎么准备）](https://seekatouring.com/field-notes/solo-packrafting) 🧪⚠️ — 只选已经结伴走过、或明显更容易的水；沿途要能上岸。把出入水点、路线、车辆、船体颜色、回报时间和超时该通知谁交给可靠的人；改线先告知。偏远行程把 PLB／卫星通讯戴在救生衣上，不要放在船头包里。动水落水几乎总是先上岸；没有把握就搬船。厂商缓流教学，不是白水独划手册。
 - [Seeka Touring：Leaving trip intentions（行程报备：预计时间与报警时间）](https://seekatouring.com/field-notes/trip-intentions) ⚠️ — 交给留守的人一份能让陌生人找到你的书面计划。关键是两个时间：预计回来（expected time）和超时就报警（alarm time）；后者是指令，到点未见回报就通知应急部门，不要再多打几通电话观望。写清人员、起终点与停车、车辆、路线与备选撤离、船体／救生衣颜色、通讯器材，并附图。山屋登记本不能代替这份计划；改线有信号先告知，出来第一件事是报平安。厂商教学，紧急电话写的是澳新号码，国内改打本地应急电话。
 - [Seeka Touring：Navigation and maps（导航与地图）](https://seekatouring.com/field-notes/packraft-navigation-and-maps) — 坐得低，岸上地标从水上更难看清；沿河道量距离，不要按直线；出发前标好出入水、中途撤离、用于对位的支流／桥／电线，以及已知的堰和峡谷。收船点最容易错过：下水前先从岸上看，记下上游参照；若已经漂过，在第一个安全处上岸，沿公共岸往回走，不要继续往未知下游赌出口。手机离线地形图为主、防水纸图为备份；信标不是地图。河口要把潮汐表算进导航。与行程报备、接驳物流连读。厂商缓流教学，澳新地图和潮汐来源国内要换本地资料。
+- [Wānaka SAR／新西兰警方：Motatapu 峡谷寻获遗体（2026-11-24，packraft 相关搜救）](https://www.police.govt.nz/news/release/body-located-search-missing-man-motatapu-river-wanaka) ⚠️ — 警方 11-25 通报：在 Motatapu River Gorge 一带找到一具遗体，相信是 11-22 被报从 Arrowtown 失踪的 64 岁 Shaun Gilbert；正式辨认当时尚未完成。警方通报未写 packraft，也未公布死因，并请尊重家属隐私。Wānaka SAR／LandSAR 新闻稿称：预计 11-13 开始徒步并 packraft Te Araroa 的 Motatapu 段，11-16 未在 Wānaka 取到预定补给，11-22 才报警；搜救队在河里发现物品，认为显示他在 packraft、接近陡峭峡谷段时遇到困难——这是搜救队的现场判断，不是调查结论。11-26 早间精选漏收。不能套 Mini Shark 或天津一带的河。可与 Seeka 行程报备连读。另见 [Wānaka App](https://wanakaapp.nz/NewsStory/w-naka-sar-specialist-teams-recover-body-from-motatapu-gorge/6b062a9a497031002edc3248)、[Scoop 新闻稿](https://dunedin.scoop.co.nz/?p=42461)。
+
 
 ## 三、课程与学校
 
@@ -73,6 +75,8 @@
 - [Packrafting Scotland](https://www.packraftingscotland.co.uk/) — 苏格兰的 packraft 课程和河流体验，看英国体系的教学内容。
 - [ACA 官网课程搜索](https://americancanoe.org/) — 按地区、级别找认证教练和课程。
 - [California Packrafting：The Packraft Learning Curve（为什么要去上硬壳课）](https://californiapackrafting.com/the-packraft-learning-curve-and-the-case-for-kayaking-instruction/) 🧪 — 硬壳前端陡、packraft 前端平但进阶墙更高；棱边与桨法反馈如何带回 packraft。
+- [Seeka Touring：Where to learn packraft skills（去哪里学技术）](https://seekatouring.com/field-notes/learning-packraft-skills) 🧪 — 先找俱乐部（去之前问清是否接受 packraft），再上有顺序的课（桨法→自救→动水）；开始经常划动水前，值得先上急流救援课和急救课。平水可自己短时重复：直线划且船头不乱摆、扫桨转向、顶风／侧风、湿出舱和爬回船上、装载后调纵倾。动水最好有经验的人在旁边；白水是另一门功课，按级别上课，不要自己在急流里试。厂商缓流教学；文中俱乐部体系是澳大利亚的，国内要换本地渠道。
+
 
 ## 四、书籍
 
@@ -155,6 +159,8 @@
 - [Seeka Touring：Estuaries and tides（河口与潮汐）](https://seekatouring.com/field-notes/packrafting-estuaries-and-tides) 🧪 — 先潮表后地图；河口内潮时滞后；涨上退回或步行上游再借退潮；平潮过窄槽；低潮前找主槽防搁滩。感潮河段可参考（换本地潮汐表）。
 - [Seeka Touring：Packraft trim and seating（纵倾与坐姿）](https://seekatouring.com/field-notes/packraft-trim-and-seating) 🧪 — 短船体人占大部分重量：坐太后船头翘起受风漂、偏航；目标水平或船头略低。重而密的放低放中，轻而蓬的绑船头且压低（高堆像帆）；顶风船头略低、动水重心居中；左右失衡会持续偏向重侧；每次下水五分钟岸边检查。与 Packrafting in wind 连读。
 - [r/Kayaking：Paddling without footrests?（不装脚撑能不能划）](https://www.reddit.com/r/Kayaking/comments/1y01deg/paddling_without_footrests/) 🧪 — 2026-11-19。14 英尺海艇、格陵兰桨的讨论：多数意见认为脚、膝、髋三点接触才能把船「穿在身上」，用于扭矩、倾艇、撑桨和翻滚；平水轻松划可以凑合。替代是泡沫脚墙／隔舱脚撑，不一定是踏板。少数认为髋膝连接已够。硬壳经验，不能直接翻译成 packraft 必须加脚撑；可与 Seeka 纵倾（脚顶前方地板或船管）对照。
+- [Seeka Touring：A packrafting glossary（packraft 词汇表）](https://seekatouring.com/field-notes/packrafting-glossary) 🧪 — 2026-11-26。对照船体（hull／tubes／floor、自排水与喷裙）、纵倾与干舷（trim／freeboard）、读水（洄水线、摆渡、tongue、滤网），以及 Grade（河道等级）和 Level（当天水位）的区别：等级会随水位改写。厂商词表，不是教科书；Seeka 的管布规格和型号不要套到 Mini Shark 上。对 packraft-physics 中文用语对照有用。
+
 
 ## 七、装备评测与知识
 
@@ -246,14 +252,14 @@
 | 类别 | 条目数 |
 |---|---|
 | 一、组织与协会 | 10 |
-| 二、安全与救援 | 36 |
-| 三、课程与学校 | 5 |
+| 二、安全与救援 | 37 |
+| 三、课程与学校 | 6 |
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
-| 六、读水与水流力学 / 物理 | 45 |
+| 六、读水与水流力学 / 物理 | 46 |
 | 七、装备评测与知识 | 42 |
 | 八、河流信息与水位工具 | 13 |
 | 九、社区与论坛 | 7 |
-| **合计** | **181** |
+| **合计** | **184** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
