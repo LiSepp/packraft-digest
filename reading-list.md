@@ -208,6 +208,7 @@
 
 - [Seeka Touring：Treating water on packraft trips（河水饮用处理）](https://seekatouring.com/field-notes/water-treatment-on-packraft-trips) 🧪⚠️ — 煮沸／过滤／药剂／UV 对照；蓝藻毒素与化学污染多数野外法无效；取流动段、营地上游；主法＋备用。澳新语境，当地水质公告优先。
 - [Seeka Touring：Leave no trace packrafting（无痕与跨水域清洁）](https://seekatouring.com/field-notes/leave-no-trace-packrafting) 🧪 — 既有营地／炉具优先；洗碗离水；跨流域 Check→Clean→Dry；私有岸获准。与 care and storage 连读。
+- [Seeka Touring：Packrafting in New Zealand（新西兰从哪开始）](https://seekatouring.com/field-notes/packrafting-in-new-zealand) — 步道接河、冰蚀湖和能走到再划回的海湾；换水域做 Check, Clean, Dry（查清／按 MPI 建议清洗／彻底晾干，折痕和气阀会藏水；入境申报水上装备）。大湖赶早晨、靠岸；雪水夏天也冷，按落水穿；雨后先看地方议会水位；穿救生衣并行程报备。厂商目的地导览，不是河道攻略，也不是 Mini Shark 对照。与 Leave no trace、行程报备、天气预报连读。
 - [Iron Raft：The Packraft MOT（入冬／开春六步体检）](https://www.iron-raft.co.uk/blogs/tips-tricks-1/the-packraft-mot-a-six-step-health-check-before-spring) — 外观巡检→过夜保压（注意室温降低会让气管变软，要在同温下比较）→肥皂水找漏（先查阀门、焊缝、TiZip 两端、旧补丁边缘）→阀门清沙、拉链清洁薄润滑→座椅／绑带／D 环拉力检查→救生衣、桨、充气袋、修补包盘点；收纳前别喷亮光保护剂，会让修补胶粘不牢。
 - [GearJunkie：Alpacka Mage 长评](https://gearjunkie.com/boats-water/alpacka-raft-mage-review) 🧪 — 充气下沉底板＋舭角换来二次稳性和压边能力，代价是初稳性低、浅水刮底易侧翻；平底船的对照案例。
 - [The Radavist：Alpacka Chinook 平水 packraft 评测（Spencer Harding）](https://theradavist.com/alpacka-raft-chinook-review) 🧪 — 长船体＋可拆艉鳍对付传统短 packraft 的两个痛点：停桨容易原地掉头约 180°，以及高干舷在顶风里像帆。评测者在约 16–24 km/h（10–15 mph）顶风里觉得航向只偏几度；随意划约 4–4.8 km/h，加力约 6.4 km/h。代价是没有脚撑、大腿带不好发力、Cargo Fly 拉链偏左、喷裙在烈日下闷热；约 4.1 kg、1700 美元。个人体验，不是测阻力。可与 Mage 长评对照：一条走平水循迹，一条走白水二次稳性。
@@ -257,9 +258,9 @@
 | 四、书籍 | 3 |
 | 五、视频频道和教程 | 20 |
 | 六、读水与水流力学 / 物理 | 46 |
-| 七、装备评测与知识 | 42 |
+| 七、装备评测与知识 | 43 |
 | 八、河流信息与水位工具 | 13 |
 | 九、社区与论坛 | 7 |
-| **合计** | **184** |
+| **合计** | **185** |
 
 > 已知缺口：天津/华北本地的 packraft 俱乐部或社群暂时没查到能公开确认的网站；之后在 B 站、小红书等平台上找到靠谱的再补。
